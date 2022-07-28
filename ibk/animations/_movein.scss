@@ -1,0 +1,31 @@
+  // .bounce-in-right {
+  //   animation: bounce-in-right 10s ease infinite;
+  // }
+
+  @keyframes move-in {
+    0% {
+      opacity: 0;
+      transform: translateX(2000px);
+    }
+    60% {
+      opacity: 1;
+      transform: translateX(-30px);
+    }
+    80% { transform: translateX(10px); }
+    100% { transform: translateX(0); }
+  }
+
+  @for $i from 1 through 10 {
+    .move-in-#{$i}sec-infinite {
+      animation: $base-name-move-in #{$i}+s ease $base-infinite;
+    }
+
+    @for $b from 1 through 5 {
+      .move-in-#{$i}sec-#{$b * 2} {
+        animation: $base-name-move-in #{$i}s ease #{$b*2};
+      }
+    }
+  }
+
+
+
