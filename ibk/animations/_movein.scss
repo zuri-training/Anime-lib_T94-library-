@@ -1,6 +1,7 @@
-  // .bounce-in-right {
-  //   animation: bounce-in-right 10s ease infinite;
-  // }
+.move-in {
+  animation: move-in 2s ease infinite;
+}
+
 
   @keyframes move-in {
     0% {
@@ -27,5 +28,9 @@
     }
   }
 
-
+  @for $i from 1 through 10 {
+    .hov-move-in-#{$i}sec:hover {
+      animation: $base-name-move-in #{$i}+s ease $base-infinite;
+    }
+  }
 
