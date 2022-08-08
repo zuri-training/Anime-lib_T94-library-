@@ -253,47 +253,47 @@
   animation: blink 200ms ease 20 alternate;
 }
 
-.blink-noraml-infinite {
+.blink-normal-infinite {
   animation: blink 500ms ease infinite alternate;
 }
 
-.blink-noraml-2 {
+.blink-normal-2 {
   animation: blink 500ms ease 2 alternate;
 }
 
-.blink-noraml-4 {
+.blink-normal-4 {
   animation: blink 500ms ease 4 alternate;
 }
 
-.blink-noraml-6 {
+.blink-normal-6 {
   animation: blink 500ms ease 6 alternate;
 }
 
-.blink-noraml-8 {
+.blink-normal-8 {
   animation: blink 500ms ease 8 alternate;
 }
 
-.blink-noraml-10 {
+.blink-normal-10 {
   animation: blink 500ms ease 10 alternate;
 }
 
-.blink-noraml-12 {
+.blink-normal-12 {
   animation: blink 500ms ease 12 alternate;
 }
 
-.blink-noraml-14 {
+.blink-normal-14 {
   animation: blink 500ms ease 14 alternate;
 }
 
-.blink-noraml-16 {
+.blink-normal-16 {
   animation: blink 500ms ease 16 alternate;
 }
 
-.blink-noraml-18 {
+.blink-normal-18 {
   animation: blink 500ms ease 18 alternate;
 }
 
-.blink-noraml-20 {
+.blink-normal-20 {
   animation: blink 500ms ease 20 alternate;
 }
 
@@ -393,7 +393,7 @@
   animation: blink 200ms ease infinite alternate;
 }
 
-.hov-blink-noraml:hover {
+.hov-blink-normal:hover {
   animation: blink 500ms ease infinite alternate;
 }
 
@@ -505,47 +505,47 @@
   animation: fade-out 1.5s ease 20 alternate;
 }
 
-.fade-out-noraml-infinite {
+.fade-out-normal-infinite {
   animation: fade-out 2s ease infinite;
 }
 
-.fade-out-noraml-2 {
+.fade-out-normal-2 {
   animation: fade-out 2s ease 2 alternate;
 }
 
-.fade-out-noraml-4 {
+.fade-out-normal-4 {
   animation: fade-out 2s ease 4 alternate;
 }
 
-.fade-out-noraml-6 {
+.fade-out-normal-6 {
   animation: fade-out 2s ease 6 alternate;
 }
 
-.fade-out-noraml-8 {
+.fade-out-normal-8 {
   animation: fade-out 2s ease 8 alternate;
 }
 
-.fade-out-noraml-10 {
+.fade-out-normal-10 {
   animation: fade-out 2s ease 10 alternate;
 }
 
-.fade-out-noraml-12 {
+.fade-out-normal-12 {
   animation: fade-out 2s ease 12 alternate;
 }
 
-.fade-out-noraml-14 {
+.fade-out-normal-14 {
   animation: fade-out 2s ease 14 alternate;
 }
 
-.fade-out-noraml-16 {
+.fade-out-normal-16 {
   animation: fade-out 2s ease 16 alternate;
 }
 
-.fade-out-noraml-18 {
+.fade-out-normal-18 {
   animation: fade-out 2s ease 18 alternate;
 }
 
-.fade-out-noraml-20 {
+.fade-out-normal-20 {
   animation: fade-out 2s ease 20 alternate;
 }
 
@@ -645,7 +645,7 @@
   animation: fade-out 1.5s ease infinite;
 }
 
-.hov-fade-out-noraml:hover {
+.hov-fade-out-normal:hover {
   animation: fade-out 2s ease infinite;
 }
 
@@ -757,47 +757,47 @@
   animation: fade-in 1.5s ease 20 alternate;
 }
 
-.fade-in-noraml-infinite {
+.fade-in-normal-infinite {
   animation: fade-in 2s ease infinite;
 }
 
-.fade-in-noraml-2 {
+.fade-in-normal-2 {
   animation: fade-in 2s ease 2 alternate;
 }
 
-.fade-in-noraml-4 {
+.fade-in-normal-4 {
   animation: fade-in 2s ease 4 alternate;
 }
 
-.fade-in-noraml-6 {
+.fade-in-normal-6 {
   animation: fade-in 2s ease 6 alternate;
 }
 
-.fade-in-noraml-8 {
+.fade-in-normal-8 {
   animation: fade-in 2s ease 8 alternate;
 }
 
-.fade-in-noraml-10 {
+.fade-in-normal-10 {
   animation: fade-in 2s ease 10 alternate;
 }
 
-.fade-in-noraml-12 {
+.fade-in-normal-12 {
   animation: fade-in 2s ease 12 alternate;
 }
 
-.fade-in-noraml-14 {
+.fade-in-normal-14 {
   animation: fade-in 2s ease 14 alternate;
 }
 
-.fade-in-noraml-16 {
+.fade-in-normal-16 {
   animation: fade-in 2s ease 16 alternate;
 }
 
-.fade-in-noraml-18 {
+.fade-in-normal-18 {
   animation: fade-in 2s ease 18 alternate;
 }
 
-.fade-in-noraml-20 {
+.fade-in-normal-20 {
   animation: fade-in 2s ease 20 alternate;
 }
 
@@ -897,7 +897,7 @@
   animation: fade-in 1.5s ease infinite;
 }
 
-.hov-fade-in-noraml:hover {
+.hov-fade-in-normal:hover {
   animation: fade-in 2s ease infinite;
 }
 
@@ -2181,483 +2181,483 @@
   animation: pulse 200ms 10 ease-in-out alternate-reverse;
 }
 
-.pulse-noraml-ln-nm-infinite {
+.pulse-normal-ln-nm-infinite {
   animation: pulse 500ms infinite linear normal;
 }
 
-.pulse-noraml-ln-nm-2 {
+.pulse-normal-ln-nm-2 {
   animation: pulse 500ms 2 linear normal;
 }
 
-.pulse-noraml-ln-nm-4 {
+.pulse-normal-ln-nm-4 {
   animation: pulse 500ms 4 linear normal;
 }
 
-.pulse-noraml-ln-nm-6 {
+.pulse-normal-ln-nm-6 {
   animation: pulse 500ms 6 linear normal;
 }
 
-.pulse-noraml-ln-nm-8 {
+.pulse-normal-ln-nm-8 {
   animation: pulse 500ms 8 linear normal;
 }
 
-.pulse-noraml-ln-nm-10 {
+.pulse-normal-ln-nm-10 {
   animation: pulse 500ms 10 linear normal;
 }
 
-.pulse-noraml-ln-rev-infinite {
+.pulse-normal-ln-rev-infinite {
   animation: pulse 500ms infinite linear reverse;
 }
 
-.pulse-noraml-ln-rev-2 {
+.pulse-normal-ln-rev-2 {
   animation: pulse 500ms 2 linear reverse;
 }
 
-.pulse-noraml-ln-rev-4 {
+.pulse-normal-ln-rev-4 {
   animation: pulse 500ms 4 linear reverse;
 }
 
-.pulse-noraml-ln-rev-6 {
+.pulse-normal-ln-rev-6 {
   animation: pulse 500ms 6 linear reverse;
 }
 
-.pulse-noraml-ln-rev-8 {
+.pulse-normal-ln-rev-8 {
   animation: pulse 500ms 8 linear reverse;
 }
 
-.pulse-noraml-ln-rev-10 {
+.pulse-normal-ln-rev-10 {
   animation: pulse 500ms 10 linear reverse;
 }
 
-.pulse-noraml-ln-alt-infinite {
+.pulse-normal-ln-alt-infinite {
   animation: pulse 500ms infinite linear alternate;
 }
 
-.pulse-noraml-ln-alt-2 {
+.pulse-normal-ln-alt-2 {
   animation: pulse 500ms 2 linear alternate;
 }
 
-.pulse-noraml-ln-alt-4 {
+.pulse-normal-ln-alt-4 {
   animation: pulse 500ms 4 linear alternate;
 }
 
-.pulse-noraml-ln-alt-6 {
+.pulse-normal-ln-alt-6 {
   animation: pulse 500ms 6 linear alternate;
 }
 
-.pulse-noraml-ln-alt-8 {
+.pulse-normal-ln-alt-8 {
   animation: pulse 500ms 8 linear alternate;
 }
 
-.pulse-noraml-ln-alt-10 {
+.pulse-normal-ln-alt-10 {
   animation: pulse 500ms 10 linear alternate;
 }
 
-.pulse-noraml-ln-alt-rev-infinite {
+.pulse-normal-ln-alt-rev-infinite {
   animation: pulse 500ms infinite linear alternate-reverse;
 }
 
-.pulse-noraml-ln-alt-rev-2 {
+.pulse-normal-ln-alt-rev-2 {
   animation: pulse 500ms 2 linear alternate-reverse;
 }
 
-.pulse-noraml-ln-alt-rev-4 {
+.pulse-normal-ln-alt-rev-4 {
   animation: pulse 500ms 4 linear alternate-reverse;
 }
 
-.pulse-noraml-ln-alt-rev-6 {
+.pulse-normal-ln-alt-rev-6 {
   animation: pulse 500ms 6 linear alternate-reverse;
 }
 
-.pulse-noraml-ln-alt-rev-8 {
+.pulse-normal-ln-alt-rev-8 {
   animation: pulse 500ms 8 linear alternate-reverse;
 }
 
-.pulse-noraml-ln-alt-rev-10 {
+.pulse-normal-ln-alt-rev-10 {
   animation: pulse 500ms 10 linear alternate-reverse;
 }
 
-.pulse-noraml-es-nm-infinite {
+.pulse-normal-es-nm-infinite {
   animation: pulse 500ms infinite ease normal;
 }
 
-.pulse-noraml-es-nm-2 {
+.pulse-normal-es-nm-2 {
   animation: pulse 500ms 2 ease normal;
 }
 
-.pulse-noraml-es-nm-4 {
+.pulse-normal-es-nm-4 {
   animation: pulse 500ms 4 ease normal;
 }
 
-.pulse-noraml-es-nm-6 {
+.pulse-normal-es-nm-6 {
   animation: pulse 500ms 6 ease normal;
 }
 
-.pulse-noraml-es-nm-8 {
+.pulse-normal-es-nm-8 {
   animation: pulse 500ms 8 ease normal;
 }
 
-.pulse-noraml-es-nm-10 {
+.pulse-normal-es-nm-10 {
   animation: pulse 500ms 10 ease normal;
 }
 
-.pulse-noraml-es-rev-infinite {
+.pulse-normal-es-rev-infinite {
   animation: pulse 500ms infinite ease reverse;
 }
 
-.pulse-noraml-es-rev-2 {
+.pulse-normal-es-rev-2 {
   animation: pulse 500ms 2 ease reverse;
 }
 
-.pulse-noraml-es-rev-4 {
+.pulse-normal-es-rev-4 {
   animation: pulse 500ms 4 ease reverse;
 }
 
-.pulse-noraml-es-rev-6 {
+.pulse-normal-es-rev-6 {
   animation: pulse 500ms 6 ease reverse;
 }
 
-.pulse-noraml-es-rev-8 {
+.pulse-normal-es-rev-8 {
   animation: pulse 500ms 8 ease reverse;
 }
 
-.pulse-noraml-es-rev-10 {
+.pulse-normal-es-rev-10 {
   animation: pulse 500ms 10 ease reverse;
 }
 
-.pulse-noraml-es-alt-infinite {
+.pulse-normal-es-alt-infinite {
   animation: pulse 500ms infinite ease alternate;
 }
 
-.pulse-noraml-es-alt-2 {
+.pulse-normal-es-alt-2 {
   animation: pulse 500ms 2 ease alternate;
 }
 
-.pulse-noraml-es-alt-4 {
+.pulse-normal-es-alt-4 {
   animation: pulse 500ms 4 ease alternate;
 }
 
-.pulse-noraml-es-alt-6 {
+.pulse-normal-es-alt-6 {
   animation: pulse 500ms 6 ease alternate;
 }
 
-.pulse-noraml-es-alt-8 {
+.pulse-normal-es-alt-8 {
   animation: pulse 500ms 8 ease alternate;
 }
 
-.pulse-noraml-es-alt-10 {
+.pulse-normal-es-alt-10 {
   animation: pulse 500ms 10 ease alternate;
 }
 
-.pulse-noraml-es-alt-rev-infinite {
+.pulse-normal-es-alt-rev-infinite {
   animation: pulse 500ms infinite ease alternate-reverse;
 }
 
-.pulse-noraml-es-alt-rev-2 {
+.pulse-normal-es-alt-rev-2 {
   animation: pulse 500ms 2 ease alternate-reverse;
 }
 
-.pulse-noraml-es-alt-rev-4 {
+.pulse-normal-es-alt-rev-4 {
   animation: pulse 500ms 4 ease alternate-reverse;
 }
 
-.pulse-noraml-es-alt-rev-6 {
+.pulse-normal-es-alt-rev-6 {
   animation: pulse 500ms 6 ease alternate-reverse;
 }
 
-.pulse-noraml-es-alt-rev-8 {
+.pulse-normal-es-alt-rev-8 {
   animation: pulse 500ms 8 ease alternate-reverse;
 }
 
-.pulse-noraml-es-alt-rev-10 {
+.pulse-normal-es-alt-rev-10 {
   animation: pulse 500ms 10 ease alternate-reverse;
 }
 
-.pulse-noraml-es-in-nm-infinite {
+.pulse-normal-es-in-nm-infinite {
   animation: pulse 500ms infinite ease-in normal;
 }
 
-.pulse-noraml-es-in-nm-2 {
+.pulse-normal-es-in-nm-2 {
   animation: pulse 500ms 2 ease-in normal;
 }
 
-.pulse-noraml-es-in-nm-4 {
+.pulse-normal-es-in-nm-4 {
   animation: pulse 500ms 4 ease-in normal;
 }
 
-.pulse-noraml-es-in-nm-6 {
+.pulse-normal-es-in-nm-6 {
   animation: pulse 500ms 6 ease-in normal;
 }
 
-.pulse-noraml-es-in-nm-8 {
+.pulse-normal-es-in-nm-8 {
   animation: pulse 500ms 8 ease-in normal;
 }
 
-.pulse-noraml-es-in-nm-10 {
+.pulse-normal-es-in-nm-10 {
   animation: pulse 500ms 10 ease-in normal;
 }
 
-.pulse-noraml-es-in-rev-infinite {
+.pulse-normal-es-in-rev-infinite {
   animation: pulse 500ms infinite ease-in reverse;
 }
 
-.pulse-noraml-es-in-rev-2 {
+.pulse-normal-es-in-rev-2 {
   animation: pulse 500ms 2 ease-in reverse;
 }
 
-.pulse-noraml-es-in-rev-4 {
+.pulse-normal-es-in-rev-4 {
   animation: pulse 500ms 4 ease-in reverse;
 }
 
-.pulse-noraml-es-in-rev-6 {
+.pulse-normal-es-in-rev-6 {
   animation: pulse 500ms 6 ease-in reverse;
 }
 
-.pulse-noraml-es-in-rev-8 {
+.pulse-normal-es-in-rev-8 {
   animation: pulse 500ms 8 ease-in reverse;
 }
 
-.pulse-noraml-es-in-rev-10 {
+.pulse-normal-es-in-rev-10 {
   animation: pulse 500ms 10 ease-in reverse;
 }
 
-.pulse-noraml-es-in-alt-infinite {
+.pulse-normal-es-in-alt-infinite {
   animation: pulse 500ms infinite ease-in alternate;
 }
 
-.pulse-noraml-es-in-alt-2 {
+.pulse-normal-es-in-alt-2 {
   animation: pulse 500ms 2 ease-in alternate;
 }
 
-.pulse-noraml-es-in-alt-4 {
+.pulse-normal-es-in-alt-4 {
   animation: pulse 500ms 4 ease-in alternate;
 }
 
-.pulse-noraml-es-in-alt-6 {
+.pulse-normal-es-in-alt-6 {
   animation: pulse 500ms 6 ease-in alternate;
 }
 
-.pulse-noraml-es-in-alt-8 {
+.pulse-normal-es-in-alt-8 {
   animation: pulse 500ms 8 ease-in alternate;
 }
 
-.pulse-noraml-es-in-alt-10 {
+.pulse-normal-es-in-alt-10 {
   animation: pulse 500ms 10 ease-in alternate;
 }
 
-.pulse-noraml-es-in-alt-rev-infinite {
+.pulse-normal-es-in-alt-rev-infinite {
   animation: pulse 500ms infinite ease-in alternate-reverse;
 }
 
-.pulse-noraml-es-in-alt-rev-2 {
+.pulse-normal-es-in-alt-rev-2 {
   animation: pulse 500ms 2 ease-in alternate-reverse;
 }
 
-.pulse-noraml-es-in-alt-rev-4 {
+.pulse-normal-es-in-alt-rev-4 {
   animation: pulse 500ms 4 ease-in alternate-reverse;
 }
 
-.pulse-noraml-es-in-alt-rev-6 {
+.pulse-normal-es-in-alt-rev-6 {
   animation: pulse 500ms 6 ease-in alternate-reverse;
 }
 
-.pulse-noraml-es-in-alt-rev-8 {
+.pulse-normal-es-in-alt-rev-8 {
   animation: pulse 500ms 8 ease-in alternate-reverse;
 }
 
-.pulse-noraml-es-in-alt-rev-10 {
+.pulse-normal-es-in-alt-rev-10 {
   animation: pulse 500ms 10 ease-in alternate-reverse;
 }
 
-.pulse-noraml-es-out-nm-infinite {
+.pulse-normal-es-out-nm-infinite {
   animation: pulse 500ms infinite ease-out normal;
 }
 
-.pulse-noraml-es-out-nm-2 {
+.pulse-normal-es-out-nm-2 {
   animation: pulse 500ms 2 ease-out normal;
 }
 
-.pulse-noraml-es-out-nm-4 {
+.pulse-normal-es-out-nm-4 {
   animation: pulse 500ms 4 ease-out normal;
 }
 
-.pulse-noraml-es-out-nm-6 {
+.pulse-normal-es-out-nm-6 {
   animation: pulse 500ms 6 ease-out normal;
 }
 
-.pulse-noraml-es-out-nm-8 {
+.pulse-normal-es-out-nm-8 {
   animation: pulse 500ms 8 ease-out normal;
 }
 
-.pulse-noraml-es-out-nm-10 {
+.pulse-normal-es-out-nm-10 {
   animation: pulse 500ms 10 ease-out normal;
 }
 
-.pulse-noraml-es-out-rev-infinite {
+.pulse-normal-es-out-rev-infinite {
   animation: pulse 500ms infinite ease-out reverse;
 }
 
-.pulse-noraml-es-out-rev-2 {
+.pulse-normal-es-out-rev-2 {
   animation: pulse 500ms 2 ease-out reverse;
 }
 
-.pulse-noraml-es-out-rev-4 {
+.pulse-normal-es-out-rev-4 {
   animation: pulse 500ms 4 ease-out reverse;
 }
 
-.pulse-noraml-es-out-rev-6 {
+.pulse-normal-es-out-rev-6 {
   animation: pulse 500ms 6 ease-out reverse;
 }
 
-.pulse-noraml-es-out-rev-8 {
+.pulse-normal-es-out-rev-8 {
   animation: pulse 500ms 8 ease-out reverse;
 }
 
-.pulse-noraml-es-out-rev-10 {
+.pulse-normal-es-out-rev-10 {
   animation: pulse 500ms 10 ease-out reverse;
 }
 
-.pulse-noraml-es-out-alt-infinite {
+.pulse-normal-es-out-alt-infinite {
   animation: pulse 500ms infinite ease-out alternate;
 }
 
-.pulse-noraml-es-out-alt-2 {
+.pulse-normal-es-out-alt-2 {
   animation: pulse 500ms 2 ease-out alternate;
 }
 
-.pulse-noraml-es-out-alt-4 {
+.pulse-normal-es-out-alt-4 {
   animation: pulse 500ms 4 ease-out alternate;
 }
 
-.pulse-noraml-es-out-alt-6 {
+.pulse-normal-es-out-alt-6 {
   animation: pulse 500ms 6 ease-out alternate;
 }
 
-.pulse-noraml-es-out-alt-8 {
+.pulse-normal-es-out-alt-8 {
   animation: pulse 500ms 8 ease-out alternate;
 }
 
-.pulse-noraml-es-out-alt-10 {
+.pulse-normal-es-out-alt-10 {
   animation: pulse 500ms 10 ease-out alternate;
 }
 
-.pulse-noraml-es-out-alt-rev-infinite {
+.pulse-normal-es-out-alt-rev-infinite {
   animation: pulse 500ms infinite ease-out alternate-reverse;
 }
 
-.pulse-noraml-es-out-alt-rev-2 {
+.pulse-normal-es-out-alt-rev-2 {
   animation: pulse 500ms 2 ease-out alternate-reverse;
 }
 
-.pulse-noraml-es-out-alt-rev-4 {
+.pulse-normal-es-out-alt-rev-4 {
   animation: pulse 500ms 4 ease-out alternate-reverse;
 }
 
-.pulse-noraml-es-out-alt-rev-6 {
+.pulse-normal-es-out-alt-rev-6 {
   animation: pulse 500ms 6 ease-out alternate-reverse;
 }
 
-.pulse-noraml-es-out-alt-rev-8 {
+.pulse-normal-es-out-alt-rev-8 {
   animation: pulse 500ms 8 ease-out alternate-reverse;
 }
 
-.pulse-noraml-es-out-alt-rev-10 {
+.pulse-normal-es-out-alt-rev-10 {
   animation: pulse 500ms 10 ease-out alternate-reverse;
 }
 
-.pulse-noraml-es-in-out-nm-infinite {
+.pulse-normal-es-in-out-nm-infinite {
   animation: pulse 500ms infinite ease-in-out normal;
 }
 
-.pulse-noraml-es-in-out-nm-2 {
+.pulse-normal-es-in-out-nm-2 {
   animation: pulse 500ms 2 ease-in-out normal;
 }
 
-.pulse-noraml-es-in-out-nm-4 {
+.pulse-normal-es-in-out-nm-4 {
   animation: pulse 500ms 4 ease-in-out normal;
 }
 
-.pulse-noraml-es-in-out-nm-6 {
+.pulse-normal-es-in-out-nm-6 {
   animation: pulse 500ms 6 ease-in-out normal;
 }
 
-.pulse-noraml-es-in-out-nm-8 {
+.pulse-normal-es-in-out-nm-8 {
   animation: pulse 500ms 8 ease-in-out normal;
 }
 
-.pulse-noraml-es-in-out-nm-10 {
+.pulse-normal-es-in-out-nm-10 {
   animation: pulse 500ms 10 ease-in-out normal;
 }
 
-.pulse-noraml-es-in-out-rev-infinite {
+.pulse-normal-es-in-out-rev-infinite {
   animation: pulse 500ms infinite ease-in-out reverse;
 }
 
-.pulse-noraml-es-in-out-rev-2 {
+.pulse-normal-es-in-out-rev-2 {
   animation: pulse 500ms 2 ease-in-out reverse;
 }
 
-.pulse-noraml-es-in-out-rev-4 {
+.pulse-normal-es-in-out-rev-4 {
   animation: pulse 500ms 4 ease-in-out reverse;
 }
 
-.pulse-noraml-es-in-out-rev-6 {
+.pulse-normal-es-in-out-rev-6 {
   animation: pulse 500ms 6 ease-in-out reverse;
 }
 
-.pulse-noraml-es-in-out-rev-8 {
+.pulse-normal-es-in-out-rev-8 {
   animation: pulse 500ms 8 ease-in-out reverse;
 }
 
-.pulse-noraml-es-in-out-rev-10 {
+.pulse-normal-es-in-out-rev-10 {
   animation: pulse 500ms 10 ease-in-out reverse;
 }
 
-.pulse-noraml-es-in-out-alt-infinite {
+.pulse-normal-es-in-out-alt-infinite {
   animation: pulse 500ms infinite ease-in-out alternate;
 }
 
-.pulse-noraml-es-in-out-alt-2 {
+.pulse-normal-es-in-out-alt-2 {
   animation: pulse 500ms 2 ease-in-out alternate;
 }
 
-.pulse-noraml-es-in-out-alt-4 {
+.pulse-normal-es-in-out-alt-4 {
   animation: pulse 500ms 4 ease-in-out alternate;
 }
 
-.pulse-noraml-es-in-out-alt-6 {
+.pulse-normal-es-in-out-alt-6 {
   animation: pulse 500ms 6 ease-in-out alternate;
 }
 
-.pulse-noraml-es-in-out-alt-8 {
+.pulse-normal-es-in-out-alt-8 {
   animation: pulse 500ms 8 ease-in-out alternate;
 }
 
-.pulse-noraml-es-in-out-alt-10 {
+.pulse-normal-es-in-out-alt-10 {
   animation: pulse 500ms 10 ease-in-out alternate;
 }
 
-.pulse-noraml-es-in-out-alt-rev-infinite {
+.pulse-normal-es-in-out-alt-rev-infinite {
   animation: pulse 500ms infinite ease-in-out alternate-reverse;
 }
 
-.pulse-noraml-es-in-out-alt-rev-2 {
+.pulse-normal-es-in-out-alt-rev-2 {
   animation: pulse 500ms 2 ease-in-out alternate-reverse;
 }
 
-.pulse-noraml-es-in-out-alt-rev-4 {
+.pulse-normal-es-in-out-alt-rev-4 {
   animation: pulse 500ms 4 ease-in-out alternate-reverse;
 }
 
-.pulse-noraml-es-in-out-alt-rev-6 {
+.pulse-normal-es-in-out-alt-rev-6 {
   animation: pulse 500ms 6 ease-in-out alternate-reverse;
 }
 
-.pulse-noraml-es-in-out-alt-rev-8 {
+.pulse-normal-es-in-out-alt-rev-8 {
   animation: pulse 500ms 8 ease-in-out alternate-reverse;
 }
 
-.pulse-noraml-es-in-out-alt-rev-10 {
+.pulse-normal-es-in-out-alt-rev-10 {
   animation: pulse 500ms 10 ease-in-out alternate-reverse;
 }
 
@@ -3781,83 +3781,83 @@
   animation: pulse 200ms infinite ease-in-out alternate-reverse;
 }
 
-.hov-pulse-noraml-ln-nm:hover {
+.hov-pulse-normal-ln-nm:hover {
   animation: pulse 500ms infinite linear normal;
 }
 
-.hov-pulse-noraml-ln-rev:hover {
+.hov-pulse-normal-ln-rev:hover {
   animation: pulse 500ms infinite linear reverse;
 }
 
-.hov-pulse-noraml-ln-alt:hover {
+.hov-pulse-normal-ln-alt:hover {
   animation: pulse 500ms infinite linear alternate;
 }
 
-.hov-pulse-noraml-ln-alt-rev:hover {
+.hov-pulse-normal-ln-alt-rev:hover {
   animation: pulse 500ms infinite linear alternate-reverse;
 }
 
-.hov-pulse-noraml-es-nm:hover {
+.hov-pulse-normal-es-nm:hover {
   animation: pulse 500ms infinite ease normal;
 }
 
-.hov-pulse-noraml-es-rev:hover {
+.hov-pulse-normal-es-rev:hover {
   animation: pulse 500ms infinite ease reverse;
 }
 
-.hov-pulse-noraml-es-alt:hover {
+.hov-pulse-normal-es-alt:hover {
   animation: pulse 500ms infinite ease alternate;
 }
 
-.hov-pulse-noraml-es-alt-rev:hover {
+.hov-pulse-normal-es-alt-rev:hover {
   animation: pulse 500ms infinite ease alternate-reverse;
 }
 
-.hov-pulse-noraml-es-in-nm:hover {
+.hov-pulse-normal-es-in-nm:hover {
   animation: pulse 500ms infinite ease-in normal;
 }
 
-.hov-pulse-noraml-es-in-rev:hover {
+.hov-pulse-normal-es-in-rev:hover {
   animation: pulse 500ms infinite ease-in reverse;
 }
 
-.hov-pulse-noraml-es-in-alt:hover {
+.hov-pulse-normal-es-in-alt:hover {
   animation: pulse 500ms infinite ease-in alternate;
 }
 
-.hov-pulse-noraml-es-in-alt-rev:hover {
+.hov-pulse-normal-es-in-alt-rev:hover {
   animation: pulse 500ms infinite ease-in alternate-reverse;
 }
 
-.hov-pulse-noraml-es-out-nm:hover {
+.hov-pulse-normal-es-out-nm:hover {
   animation: pulse 500ms infinite ease-out normal;
 }
 
-.hov-pulse-noraml-es-out-rev:hover {
+.hov-pulse-normal-es-out-rev:hover {
   animation: pulse 500ms infinite ease-out reverse;
 }
 
-.hov-pulse-noraml-es-out-alt:hover {
+.hov-pulse-normal-es-out-alt:hover {
   animation: pulse 500ms infinite ease-out alternate;
 }
 
-.hov-pulse-noraml-es-out-alt-rev:hover {
+.hov-pulse-normal-es-out-alt-rev:hover {
   animation: pulse 500ms infinite ease-out alternate-reverse;
 }
 
-.hov-pulse-noraml-es-in-out-nm:hover {
+.hov-pulse-normal-es-in-out-nm:hover {
   animation: pulse 500ms infinite ease-in-out normal;
 }
 
-.hov-pulse-noraml-es-in-out-rev:hover {
+.hov-pulse-normal-es-in-out-rev:hover {
   animation: pulse 500ms infinite ease-in-out reverse;
 }
 
-.hov-pulse-noraml-es-in-out-alt:hover {
+.hov-pulse-normal-es-in-out-alt:hover {
   animation: pulse 500ms infinite ease-in-out alternate;
 }
 
-.hov-pulse-noraml-es-in-out-alt-rev:hover {
+.hov-pulse-normal-es-in-out-alt-rev:hover {
   animation: pulse 500ms infinite ease-in-out alternate-reverse;
 }
 
@@ -4226,99 +4226,99 @@
   animation: move-up 1.5s alternate-reverse 10;
 }
 
-.move-up-noraml-nm-infinite {
+.move-up-normal-nm-infinite {
   animation: move-up 2s normal infinite;
 }
 
-.move-up-noraml-nm-2 {
+.move-up-normal-nm-2 {
   animation: move-up 2s normal 2;
 }
 
-.move-up-noraml-nm-4 {
+.move-up-normal-nm-4 {
   animation: move-up 2s normal 4;
 }
 
-.move-up-noraml-nm-6 {
+.move-up-normal-nm-6 {
   animation: move-up 2s normal 6;
 }
 
-.move-up-noraml-nm-8 {
+.move-up-normal-nm-8 {
   animation: move-up 2s normal 8;
 }
 
-.move-up-noraml-nm-10 {
+.move-up-normal-nm-10 {
   animation: move-up 2s normal 10;
 }
 
-.move-up-noraml-rev-infinite {
+.move-up-normal-rev-infinite {
   animation: move-up 2s reverse infinite;
 }
 
-.move-up-noraml-rev-2 {
+.move-up-normal-rev-2 {
   animation: move-up 2s reverse 2;
 }
 
-.move-up-noraml-rev-4 {
+.move-up-normal-rev-4 {
   animation: move-up 2s reverse 4;
 }
 
-.move-up-noraml-rev-6 {
+.move-up-normal-rev-6 {
   animation: move-up 2s reverse 6;
 }
 
-.move-up-noraml-rev-8 {
+.move-up-normal-rev-8 {
   animation: move-up 2s reverse 8;
 }
 
-.move-up-noraml-rev-10 {
+.move-up-normal-rev-10 {
   animation: move-up 2s reverse 10;
 }
 
-.move-up-noraml-alt-infinite {
+.move-up-normal-alt-infinite {
   animation: move-up 2s alternate infinite;
 }
 
-.move-up-noraml-alt-2 {
+.move-up-normal-alt-2 {
   animation: move-up 2s alternate 2;
 }
 
-.move-up-noraml-alt-4 {
+.move-up-normal-alt-4 {
   animation: move-up 2s alternate 4;
 }
 
-.move-up-noraml-alt-6 {
+.move-up-normal-alt-6 {
   animation: move-up 2s alternate 6;
 }
 
-.move-up-noraml-alt-8 {
+.move-up-normal-alt-8 {
   animation: move-up 2s alternate 8;
 }
 
-.move-up-noraml-alt-10 {
+.move-up-normal-alt-10 {
   animation: move-up 2s alternate 10;
 }
 
-.move-up-noraml-alt-rev-infinite {
+.move-up-normal-alt-rev-infinite {
   animation: move-up 2s alternate-reverse infinite;
 }
 
-.move-up-noraml-alt-rev-2 {
+.move-up-normal-alt-rev-2 {
   animation: move-up 2s alternate-reverse 2;
 }
 
-.move-up-noraml-alt-rev-4 {
+.move-up-normal-alt-rev-4 {
   animation: move-up 2s alternate-reverse 4;
 }
 
-.move-up-noraml-alt-rev-6 {
+.move-up-normal-alt-rev-6 {
   animation: move-up 2s alternate-reverse 6;
 }
 
-.move-up-noraml-alt-rev-8 {
+.move-up-normal-alt-rev-8 {
   animation: move-up 2s alternate-reverse 8;
 }
 
-.move-up-noraml-alt-rev-10 {
+.move-up-normal-alt-rev-10 {
   animation: move-up 2s alternate-reverse 10;
 }
 
@@ -4546,19 +4546,19 @@
   animation: move-up 1.5s alternate-reverse infinite;
 }
 
-.hov-move-up-noraml-nm:hover {
+.hov-move-up-normal-nm:hover {
   animation: move-up 2s normal infinite;
 }
 
-.hov-move-up-noraml-rev:hover {
+.hov-move-up-normal-rev:hover {
   animation: move-up 2s reverse infinite;
 }
 
-.hov-move-up-noraml-alt:hover {
+.hov-move-up-normal-alt:hover {
   animation: move-up 2s alternate infinite;
 }
 
-.hov-move-up-noraml-alt-rev:hover {
+.hov-move-up-normal-alt-rev:hover {
   animation: move-up 2s alternate-reverse infinite;
 }
 
@@ -4799,99 +4799,99 @@
   animation: move-down 1.5s alternate-reverse 10;
 }
 
-.move-down-noraml-nm-infinite {
+.move-down-normal-nm-infinite {
   animation: move-down 2s normal infinite;
 }
 
-.move-down-noraml-nm-2 {
+.move-down-normal-nm-2 {
   animation: move-down 2s normal 2;
 }
 
-.move-down-noraml-nm-4 {
+.move-down-normal-nm-4 {
   animation: move-down 2s normal 4;
 }
 
-.move-down-noraml-nm-6 {
+.move-down-normal-nm-6 {
   animation: move-down 2s normal 6;
 }
 
-.move-down-noraml-nm-8 {
+.move-down-normal-nm-8 {
   animation: move-down 2s normal 8;
 }
 
-.move-down-noraml-nm-10 {
+.move-down-normal-nm-10 {
   animation: move-down 2s normal 10;
 }
 
-.move-down-noraml-rev-infinite {
+.move-down-normal-rev-infinite {
   animation: move-down 2s reverse infinite;
 }
 
-.move-down-noraml-rev-2 {
+.move-down-normal-rev-2 {
   animation: move-down 2s reverse 2;
 }
 
-.move-down-noraml-rev-4 {
+.move-down-normal-rev-4 {
   animation: move-down 2s reverse 4;
 }
 
-.move-down-noraml-rev-6 {
+.move-down-normal-rev-6 {
   animation: move-down 2s reverse 6;
 }
 
-.move-down-noraml-rev-8 {
+.move-down-normal-rev-8 {
   animation: move-down 2s reverse 8;
 }
 
-.move-down-noraml-rev-10 {
+.move-down-normal-rev-10 {
   animation: move-down 2s reverse 10;
 }
 
-.move-down-noraml-alt-infinite {
+.move-down-normal-alt-infinite {
   animation: move-down 2s alternate infinite;
 }
 
-.move-down-noraml-alt-2 {
+.move-down-normal-alt-2 {
   animation: move-down 2s alternate 2;
 }
 
-.move-down-noraml-alt-4 {
+.move-down-normal-alt-4 {
   animation: move-down 2s alternate 4;
 }
 
-.move-down-noraml-alt-6 {
+.move-down-normal-alt-6 {
   animation: move-down 2s alternate 6;
 }
 
-.move-down-noraml-alt-8 {
+.move-down-normal-alt-8 {
   animation: move-down 2s alternate 8;
 }
 
-.move-down-noraml-alt-10 {
+.move-down-normal-alt-10 {
   animation: move-down 2s alternate 10;
 }
 
-.move-down-noraml-alt-rev-infinite {
+.move-down-normal-alt-rev-infinite {
   animation: move-down 2s alternate-reverse infinite;
 }
 
-.move-down-noraml-alt-rev-2 {
+.move-down-normal-alt-rev-2 {
   animation: move-down 2s alternate-reverse 2;
 }
 
-.move-down-noraml-alt-rev-4 {
+.move-down-normal-alt-rev-4 {
   animation: move-down 2s alternate-reverse 4;
 }
 
-.move-down-noraml-alt-rev-6 {
+.move-down-normal-alt-rev-6 {
   animation: move-down 2s alternate-reverse 6;
 }
 
-.move-down-noraml-alt-rev-8 {
+.move-down-normal-alt-rev-8 {
   animation: move-down 2s alternate-reverse 8;
 }
 
-.move-down-noraml-alt-rev-10 {
+.move-down-normal-alt-rev-10 {
   animation: move-down 2s alternate-reverse 10;
 }
 
@@ -5119,19 +5119,19 @@
   animation: move-down 1.5s alternate-reverse infinite;
 }
 
-.hov-move-down-noraml-nm:hover {
+.hov-move-down-normal-nm:hover {
   animation: move-down 2s normal infinite;
 }
 
-.hov-move-down-noraml-rev:hover {
+.hov-move-down-normal-rev:hover {
   animation: move-down 2s reverse infinite;
 }
 
-.hov-move-down-noraml-alt:hover {
+.hov-move-down-normal-alt:hover {
   animation: move-down 2s alternate infinite;
 }
 
-.hov-move-down-noraml-alt-rev:hover {
+.hov-move-down-normal-alt-rev:hover {
   animation: move-down 2s alternate-reverse infinite;
 }
 
@@ -5372,99 +5372,99 @@
   animation: move-left 1.5s alternate-reverse 10;
 }
 
-.move-left-noraml-nm-infinite {
+.move-left-normal-nm-infinite {
   animation: move-left 2s normal infinite;
 }
 
-.move-left-noraml-nm-2 {
+.move-left-normal-nm-2 {
   animation: move-left 2s normal 2;
 }
 
-.move-left-noraml-nm-4 {
+.move-left-normal-nm-4 {
   animation: move-left 2s normal 4;
 }
 
-.move-left-noraml-nm-6 {
+.move-left-normal-nm-6 {
   animation: move-left 2s normal 6;
 }
 
-.move-left-noraml-nm-8 {
+.move-left-normal-nm-8 {
   animation: move-left 2s normal 8;
 }
 
-.move-left-noraml-nm-10 {
+.move-left-normal-nm-10 {
   animation: move-left 2s normal 10;
 }
 
-.move-left-noraml-rev-infinite {
+.move-left-normal-rev-infinite {
   animation: move-left 2s reverse infinite;
 }
 
-.move-left-noraml-rev-2 {
+.move-left-normal-rev-2 {
   animation: move-left 2s reverse 2;
 }
 
-.move-left-noraml-rev-4 {
+.move-left-normal-rev-4 {
   animation: move-left 2s reverse 4;
 }
 
-.move-left-noraml-rev-6 {
+.move-left-normal-rev-6 {
   animation: move-left 2s reverse 6;
 }
 
-.move-left-noraml-rev-8 {
+.move-left-normal-rev-8 {
   animation: move-left 2s reverse 8;
 }
 
-.move-left-noraml-rev-10 {
+.move-left-normal-rev-10 {
   animation: move-left 2s reverse 10;
 }
 
-.move-left-noraml-alt-infinite {
+.move-left-normal-alt-infinite {
   animation: move-left 2s alternate infinite;
 }
 
-.move-left-noraml-alt-2 {
+.move-left-normal-alt-2 {
   animation: move-left 2s alternate 2;
 }
 
-.move-left-noraml-alt-4 {
+.move-left-normal-alt-4 {
   animation: move-left 2s alternate 4;
 }
 
-.move-left-noraml-alt-6 {
+.move-left-normal-alt-6 {
   animation: move-left 2s alternate 6;
 }
 
-.move-left-noraml-alt-8 {
+.move-left-normal-alt-8 {
   animation: move-left 2s alternate 8;
 }
 
-.move-left-noraml-alt-10 {
+.move-left-normal-alt-10 {
   animation: move-left 2s alternate 10;
 }
 
-.move-left-noraml-alt-rev-infinite {
+.move-left-normal-alt-rev-infinite {
   animation: move-left 2s alternate-reverse infinite;
 }
 
-.move-left-noraml-alt-rev-2 {
+.move-left-normal-alt-rev-2 {
   animation: move-left 2s alternate-reverse 2;
 }
 
-.move-left-noraml-alt-rev-4 {
+.move-left-normal-alt-rev-4 {
   animation: move-left 2s alternate-reverse 4;
 }
 
-.move-left-noraml-alt-rev-6 {
+.move-left-normal-alt-rev-6 {
   animation: move-left 2s alternate-reverse 6;
 }
 
-.move-left-noraml-alt-rev-8 {
+.move-left-normal-alt-rev-8 {
   animation: move-left 2s alternate-reverse 8;
 }
 
-.move-left-noraml-alt-rev-10 {
+.move-left-normal-alt-rev-10 {
   animation: move-left 2s alternate-reverse 10;
 }
 
@@ -5692,19 +5692,19 @@
   animation: move-left 1.5s alternate-reverse infinite;
 }
 
-.hov-move-left-noraml-nm:hover {
+.hov-move-left-normal-nm:hover {
   animation: move-left 2s normal infinite;
 }
 
-.hov-move-left-noraml-rev:hover {
+.hov-move-left-normal-rev:hover {
   animation: move-left 2s reverse infinite;
 }
 
-.hov-move-left-noraml-alt:hover {
+.hov-move-left-normal-alt:hover {
   animation: move-left 2s alternate infinite;
 }
 
-.hov-move-left-noraml-alt-rev:hover {
+.hov-move-left-normal-alt-rev:hover {
   animation: move-left 2s alternate-reverse infinite;
 }
 
@@ -5945,99 +5945,99 @@
   animation: move-right 1.5s alternate-reverse 10;
 }
 
-.move-right-noraml-nm-infinite {
+.move-right-normal-nm-infinite {
   animation: move-right 2s normal infinite;
 }
 
-.move-right-noraml-nm-2 {
+.move-right-normal-nm-2 {
   animation: move-right 2s normal 2;
 }
 
-.move-right-noraml-nm-4 {
+.move-right-normal-nm-4 {
   animation: move-right 2s normal 4;
 }
 
-.move-right-noraml-nm-6 {
+.move-right-normal-nm-6 {
   animation: move-right 2s normal 6;
 }
 
-.move-right-noraml-nm-8 {
+.move-right-normal-nm-8 {
   animation: move-right 2s normal 8;
 }
 
-.move-right-noraml-nm-10 {
+.move-right-normal-nm-10 {
   animation: move-right 2s normal 10;
 }
 
-.move-right-noraml-rev-infinite {
+.move-right-normal-rev-infinite {
   animation: move-right 2s reverse infinite;
 }
 
-.move-right-noraml-rev-2 {
+.move-right-normal-rev-2 {
   animation: move-right 2s reverse 2;
 }
 
-.move-right-noraml-rev-4 {
+.move-right-normal-rev-4 {
   animation: move-right 2s reverse 4;
 }
 
-.move-right-noraml-rev-6 {
+.move-right-normal-rev-6 {
   animation: move-right 2s reverse 6;
 }
 
-.move-right-noraml-rev-8 {
+.move-right-normal-rev-8 {
   animation: move-right 2s reverse 8;
 }
 
-.move-right-noraml-rev-10 {
+.move-right-normal-rev-10 {
   animation: move-right 2s reverse 10;
 }
 
-.move-right-noraml-alt-infinite {
+.move-right-normal-alt-infinite {
   animation: move-right 2s alternate infinite;
 }
 
-.move-right-noraml-alt-2 {
+.move-right-normal-alt-2 {
   animation: move-right 2s alternate 2;
 }
 
-.move-right-noraml-alt-4 {
+.move-right-normal-alt-4 {
   animation: move-right 2s alternate 4;
 }
 
-.move-right-noraml-alt-6 {
+.move-right-normal-alt-6 {
   animation: move-right 2s alternate 6;
 }
 
-.move-right-noraml-alt-8 {
+.move-right-normal-alt-8 {
   animation: move-right 2s alternate 8;
 }
 
-.move-right-noraml-alt-10 {
+.move-right-normal-alt-10 {
   animation: move-right 2s alternate 10;
 }
 
-.move-right-noraml-alt-rev-infinite {
+.move-right-normal-alt-rev-infinite {
   animation: move-right 2s alternate-reverse infinite;
 }
 
-.move-right-noraml-alt-rev-2 {
+.move-right-normal-alt-rev-2 {
   animation: move-right 2s alternate-reverse 2;
 }
 
-.move-right-noraml-alt-rev-4 {
+.move-right-normal-alt-rev-4 {
   animation: move-right 2s alternate-reverse 4;
 }
 
-.move-right-noraml-alt-rev-6 {
+.move-right-normal-alt-rev-6 {
   animation: move-right 2s alternate-reverse 6;
 }
 
-.move-right-noraml-alt-rev-8 {
+.move-right-normal-alt-rev-8 {
   animation: move-right 2s alternate-reverse 8;
 }
 
-.move-right-noraml-alt-rev-10 {
+.move-right-normal-alt-rev-10 {
   animation: move-right 2s alternate-reverse 10;
 }
 
@@ -6265,19 +6265,19 @@
   animation: move-right 1.5s alternate-reverse infinite;
 }
 
-.hov-move-right-noraml-nm:hover {
+.hov-move-right-normal-nm:hover {
   animation: move-right 2s normal infinite;
 }
 
-.hov-move-right-noraml-rev:hover {
+.hov-move-right-normal-rev:hover {
   animation: move-right 2s reverse infinite;
 }
 
-.hov-move-right-noraml-alt:hover {
+.hov-move-right-normal-alt:hover {
   animation: move-right 2s alternate infinite;
 }
 
-.hov-move-right-noraml-alt-rev:hover {
+.hov-move-right-normal-alt-rev:hover {
   animation: move-right 2s alternate-reverse infinite;
 }
 
