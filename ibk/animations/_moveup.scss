@@ -1,0 +1,51 @@
+.move-up {
+    position: relative;
+    animation: $base-name-moveup 1s normal ease-out infinite;
+}
+
+
+@keyframes move-up {
+    0% {
+        bottom:0px;
+    }
+    100% {
+        bottom: 50px;
+    }
+}
+
+
+
+@each $key1,
+$val1 in $base-duration-two {
+
+    @each $key2,
+    $val2 in $base-animation-direction {
+
+        .move-up-#{$key1}-#{$key2}-infinite {
+            animation: $base-name-moveup $val1 $val2 $base-infinite;
+        }
+
+        @for $i from 1 through 5 {
+            .move-up-#{$key1}-#{$key2}-#{$i * 2} {
+                animation: $base-name-moveup $val1 $val2 $i * 2;
+            }
+        }
+
+    }
+}
+
+
+@each $key1,
+$val1 in $base-duration-two {
+
+    @each $key2,
+    $val2 in $base-animation-direction {
+
+        .hov-move-up-#{$key1}-#{$key2}:hover {
+            animation: $base-name-moveup $val1 $val2 $base-infinite;
+        }
+
+
+    }
+}
+

@@ -1,3 +1,7 @@
+.fade-in{
+    animation: fade-in 2s linear infinite;
+  }
+
 @keyframes fade-in {
     from {
         opacity: 0;
@@ -18,4 +22,11 @@
             animation: $base-name-fade-in $val ease $i*2 alternate;
         }
     }
+}
+
+@each $key,$val in $base-duration-two {
+    .hov-fade-in-#{$key}:hover {
+        animation: $base-name-fade-in $val ease $base-infinite;
+    }
+
 }

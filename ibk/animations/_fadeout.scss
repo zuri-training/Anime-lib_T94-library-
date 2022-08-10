@@ -1,3 +1,7 @@
+.fade-out {
+    animation: fade-out 2s linear infinite;
+  }
+
 @keyframes fade-out {
     from {
         opacity: 1;
@@ -18,5 +22,12 @@ $val in $base-duration-two {
         .fade-out-#{$key}-#{$i * 2} {
             animation: $base-name-fade-out $val ease $i*2 alternate;
         }
+    }
+}
+
+@each $key,
+$val in $base-duration-two {
+    .hov-fade-out-#{$key}:hover {
+        animation: $base-name-fade-out $val ease $base-infinite;
     }
 }

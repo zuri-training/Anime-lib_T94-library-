@@ -1,3 +1,7 @@
+.blink {
+    animation: blink 500ms ease infinite alternate;
+  }
+
 @keyframes blink {
     from { opacity: 1; }	
     to { opacity: 0; }
@@ -12,5 +16,12 @@ $val in $base-duration {
         .blink-#{$key}-#{$i * 2} {
             animation: $base-name-blink $val ease $i*2 alternate;
         }
+    }
+}
+
+@each $key,
+$val in $base-duration {
+    .hov-blink-#{$key}:hover{
+        animation: $base-name-blink $val ease $base-infinite alternate;
     }
 }

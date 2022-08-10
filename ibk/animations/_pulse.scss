@@ -1,0 +1,49 @@
+.pulse {
+    animation: pulse 1s infinite linear normal;
+  }
+
+@keyframes pulse {
+    from { transform: scale(0.8); }
+    to { transform: scale(1.2); }
+  }
+
+
+@each $key1,
+$val1 in $base-duration {
+
+    @each $key2,
+    $val2 in $base-timing-function {
+
+        @each $key3,
+        $val3 in $base-animation-direction {
+            .pulse-#{$key1}-#{$key2}-#{$key3}-infinite {
+                animation: $base-name-pulse $val1 $base-infinite $val2 $val3;
+            }
+
+            @for $i from 1 through 5 {
+                .pulse-#{$key1}-#{$key2}-#{$key3}-#{$i * 2} {
+                    animation: $base-name-pulse $val1 $i*2 $val2 $val3;
+                }
+            }
+        }
+    }
+}
+
+@each $key1,
+$val1 in $base-duration {
+
+    @each $key2,
+    $val2 in $base-timing-function {
+
+        @each $key3,
+        $val3 in $base-animation-direction {
+            .hov-pulse-#{$key1}-#{$key2}-#{$key3}:hover {
+                animation: $base-name-pulse $val1 $base-infinite $val2 $val3;
+            }
+
+        }
+    }
+}
+
+
+

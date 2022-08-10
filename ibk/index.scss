@@ -5,13 +5,18 @@
 // variables and functions
 @import 'variables';
 
-@import 'base';
+
 // Animations Features
 @import 'animations/bounce';
 @import 'animations/blink';
 @import 'animations/fadeout';
 @import 'animations/fadein';
 @import 'animations/movein';
+@import 'animations/pulse';
+@import 'animations/moveup';
+@import 'animations/movedown';
+@import 'animations/moveleft';
+@import 'animations/moveright';
 
 // colors
 
