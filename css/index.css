@@ -1,9 +1,5 @@
 .bounce {
-<<<<<<< HEAD
   animation: bounce 1s linear 3;
-=======
-  animation: bounce 1s linear infinite;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes bounce {
@@ -158,11 +154,7 @@
 }
 
 .blink {
-<<<<<<< HEAD
   animation: blink 500ms ease alternate 3;
-=======
-  animation: blink 500ms ease infinite alternate;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes blink {
@@ -414,11 +406,7 @@
 }
 
 .fade-out {
-<<<<<<< HEAD
   animation: fade-out 2s linear 3;
-=======
-  animation: fade-out 2s linear infinite;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes fade-out {
@@ -670,11 +658,7 @@
 }
 
 .fade-in {
-<<<<<<< HEAD
   animation: fade-in 2s linear 3;
-=======
-  animation: fade-in 2s linear infinite;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes fade-in {
@@ -926,11 +910,7 @@
 }
 
 .move-in {
-<<<<<<< HEAD
   animation: move-in 2s ease 3;
-=======
-  animation: move-in 2s ease infinite;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes move-in {
@@ -1230,11 +1210,7 @@
 }
 
 .pulse {
-<<<<<<< HEAD
   animation: pulse 1s linear normal 3;
-=======
-  animation: pulse 1s infinite linear normal;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes pulse {
@@ -4047,11 +4023,7 @@
 
 .move-up {
   position: relative;
-<<<<<<< HEAD
   animation: move-up 1s normal ease-out 3;
-=======
-  animation: move-up 1s normal ease-out infinite;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes move-up {
@@ -4624,11 +4596,7 @@
 
 .move-down {
   position: relative;
-<<<<<<< HEAD
   animation: move-down 1s normal ease-out 3;
-=======
-  animation: move-down 1s infinite normal ease-out;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes move-down {
@@ -5201,11 +5169,7 @@
 
 .move-left {
   position: relative;
-<<<<<<< HEAD
   animation: move-left 1s normal ease-in-out 3;
-=======
-  animation: move-left 1s normal ease-in-out infinite;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes move-left {
@@ -5778,11 +5742,7 @@
 
 .move-right {
   position: relative;
-<<<<<<< HEAD
   animation: move-right 1s normal ease-out 3;
-=======
-  animation: move-right 1s infinite normal ease-out;
->>>>>>> db82c0d723107a712ae735ffb4b393297069c38b
 }
 
 @keyframes move-right {
