@@ -1,5 +1,5 @@
 .bounce {
-  animation: bounce 1s linear infinite;
+  animation: bounce 1s linear 3;
 }
 
 @keyframes bounce {
@@ -154,7 +154,7 @@
 }
 
 .blink {
-  animation: blink 500ms ease infinite alternate;
+  animation: blink 500ms ease alternate 3;
 }
 
 @keyframes blink {
@@ -406,7 +406,7 @@
 }
 
 .fade-out {
-  animation: fade-out 2s linear infinite;
+  animation: fade-out 2s linear 3;
 }
 
 @keyframes fade-out {
@@ -658,7 +658,7 @@
 }
 
 .fade-in {
-  animation: fade-in 2s linear infinite;
+  animation: fade-in 2s linear 3;
 }
 
 @keyframes fade-in {
@@ -910,7 +910,7 @@
 }
 
 .move-in {
-  animation: move-in 2s ease infinite;
+  animation: move-in 2s ease 3;
 }
 
 @keyframes move-in {
@@ -1210,7 +1210,7 @@
 }
 
 .pulse {
-  animation: pulse 1s infinite linear normal;
+  animation: pulse 1s linear normal 3;
 }
 
 @keyframes pulse {
@@ -4023,7 +4023,7 @@
 
 .move-up {
   position: relative;
-  animation: move-up 1s normal ease-out infinite;
+  animation: move-up 1s normal ease-out 3;
 }
 
 @keyframes move-up {
@@ -4596,7 +4596,7 @@
 
 .move-down {
   position: relative;
-  animation: move-down 1s infinite normal ease-out;
+  animation: move-down 1s normal ease-out 3;
 }
 
 @keyframes move-down {
@@ -5169,7 +5169,7 @@
 
 .move-left {
   position: relative;
-  animation: move-left 1s normal ease-in-out infinite;
+  animation: move-left 1s normal ease-in-out 3;
 }
 
 @keyframes move-left {
@@ -5742,7 +5742,7 @@
 
 .move-right {
   position: relative;
-  animation: move-right 1s infinite normal ease-out;
+  animation: move-right 1s normal ease-out 3;
 }
 
 @keyframes move-right {

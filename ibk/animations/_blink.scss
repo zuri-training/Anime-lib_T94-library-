@@ -1,5 +1,5 @@
 .blink {
-    animation: blink 500ms ease infinite alternate;
+    animation: blink 500ms ease alternate 3;
   }
 
 @keyframes blink {
