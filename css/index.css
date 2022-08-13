@@ -4035,562 +4035,702 @@
   }
 }
 .move-up-vfast-nm-infinite {
+  position: relative;
   animation: move-up 1s normal infinite;
 }
 
 .move-up-vfast-nm-2 {
+  position: relative;
   animation: move-up 1s normal 2;
 }
 
 .move-up-vfast-nm-4 {
+  position: relative;
   animation: move-up 1s normal 4;
 }
 
 .move-up-vfast-nm-6 {
+  position: relative;
   animation: move-up 1s normal 6;
 }
 
 .move-up-vfast-nm-8 {
+  position: relative;
   animation: move-up 1s normal 8;
 }
 
 .move-up-vfast-nm-10 {
+  position: relative;
   animation: move-up 1s normal 10;
 }
 
 .move-up-vfast-rev-infinite {
+  position: relative;
   animation: move-up 1s reverse infinite;
 }
 
 .move-up-vfast-rev-2 {
+  position: relative;
   animation: move-up 1s reverse 2;
 }
 
 .move-up-vfast-rev-4 {
+  position: relative;
   animation: move-up 1s reverse 4;
 }
 
 .move-up-vfast-rev-6 {
+  position: relative;
   animation: move-up 1s reverse 6;
 }
 
 .move-up-vfast-rev-8 {
+  position: relative;
   animation: move-up 1s reverse 8;
 }
 
 .move-up-vfast-rev-10 {
+  position: relative;
   animation: move-up 1s reverse 10;
 }
 
 .move-up-vfast-alt-infinite {
+  position: relative;
   animation: move-up 1s alternate infinite;
 }
 
 .move-up-vfast-alt-2 {
+  position: relative;
   animation: move-up 1s alternate 2;
 }
 
 .move-up-vfast-alt-4 {
+  position: relative;
   animation: move-up 1s alternate 4;
 }
 
 .move-up-vfast-alt-6 {
+  position: relative;
   animation: move-up 1s alternate 6;
 }
 
 .move-up-vfast-alt-8 {
+  position: relative;
   animation: move-up 1s alternate 8;
 }
 
 .move-up-vfast-alt-10 {
+  position: relative;
   animation: move-up 1s alternate 10;
 }
 
 .move-up-vfast-alt-rev-infinite {
+  position: relative;
   animation: move-up 1s alternate-reverse infinite;
 }
 
 .move-up-vfast-alt-rev-2 {
+  position: relative;
   animation: move-up 1s alternate-reverse 2;
 }
 
 .move-up-vfast-alt-rev-4 {
+  position: relative;
   animation: move-up 1s alternate-reverse 4;
 }
 
 .move-up-vfast-alt-rev-6 {
+  position: relative;
   animation: move-up 1s alternate-reverse 6;
 }
 
 .move-up-vfast-alt-rev-8 {
+  position: relative;
   animation: move-up 1s alternate-reverse 8;
 }
 
 .move-up-vfast-alt-rev-10 {
+  position: relative;
   animation: move-up 1s alternate-reverse 10;
 }
 
 .move-up-fast-nm-infinite {
+  position: relative;
   animation: move-up 1.5s normal infinite;
 }
 
 .move-up-fast-nm-2 {
+  position: relative;
   animation: move-up 1.5s normal 2;
 }
 
 .move-up-fast-nm-4 {
+  position: relative;
   animation: move-up 1.5s normal 4;
 }
 
 .move-up-fast-nm-6 {
+  position: relative;
   animation: move-up 1.5s normal 6;
 }
 
 .move-up-fast-nm-8 {
+  position: relative;
   animation: move-up 1.5s normal 8;
 }
 
 .move-up-fast-nm-10 {
+  position: relative;
   animation: move-up 1.5s normal 10;
 }
 
 .move-up-fast-rev-infinite {
+  position: relative;
   animation: move-up 1.5s reverse infinite;
 }
 
 .move-up-fast-rev-2 {
+  position: relative;
   animation: move-up 1.5s reverse 2;
 }
 
 .move-up-fast-rev-4 {
+  position: relative;
   animation: move-up 1.5s reverse 4;
 }
 
 .move-up-fast-rev-6 {
+  position: relative;
   animation: move-up 1.5s reverse 6;
 }
 
 .move-up-fast-rev-8 {
+  position: relative;
   animation: move-up 1.5s reverse 8;
 }
 
 .move-up-fast-rev-10 {
+  position: relative;
   animation: move-up 1.5s reverse 10;
 }
 
 .move-up-fast-alt-infinite {
+  position: relative;
   animation: move-up 1.5s alternate infinite;
 }
 
 .move-up-fast-alt-2 {
+  position: relative;
   animation: move-up 1.5s alternate 2;
 }
 
 .move-up-fast-alt-4 {
+  position: relative;
   animation: move-up 1.5s alternate 4;
 }
 
 .move-up-fast-alt-6 {
+  position: relative;
   animation: move-up 1.5s alternate 6;
 }
 
 .move-up-fast-alt-8 {
+  position: relative;
   animation: move-up 1.5s alternate 8;
 }
 
 .move-up-fast-alt-10 {
+  position: relative;
   animation: move-up 1.5s alternate 10;
 }
 
 .move-up-fast-alt-rev-infinite {
+  position: relative;
   animation: move-up 1.5s alternate-reverse infinite;
 }
 
 .move-up-fast-alt-rev-2 {
+  position: relative;
   animation: move-up 1.5s alternate-reverse 2;
 }
 
 .move-up-fast-alt-rev-4 {
+  position: relative;
   animation: move-up 1.5s alternate-reverse 4;
 }
 
 .move-up-fast-alt-rev-6 {
+  position: relative;
   animation: move-up 1.5s alternate-reverse 6;
 }
 
 .move-up-fast-alt-rev-8 {
+  position: relative;
   animation: move-up 1.5s alternate-reverse 8;
 }
 
 .move-up-fast-alt-rev-10 {
+  position: relative;
   animation: move-up 1.5s alternate-reverse 10;
 }
 
 .move-up-normal-nm-infinite {
+  position: relative;
   animation: move-up 2s normal infinite;
 }
 
 .move-up-normal-nm-2 {
+  position: relative;
   animation: move-up 2s normal 2;
 }
 
 .move-up-normal-nm-4 {
+  position: relative;
   animation: move-up 2s normal 4;
 }
 
 .move-up-normal-nm-6 {
+  position: relative;
   animation: move-up 2s normal 6;
 }
 
 .move-up-normal-nm-8 {
+  position: relative;
   animation: move-up 2s normal 8;
 }
 
 .move-up-normal-nm-10 {
+  position: relative;
   animation: move-up 2s normal 10;
 }
 
 .move-up-normal-rev-infinite {
+  position: relative;
   animation: move-up 2s reverse infinite;
 }
 
 .move-up-normal-rev-2 {
+  position: relative;
   animation: move-up 2s reverse 2;
 }
 
 .move-up-normal-rev-4 {
+  position: relative;
   animation: move-up 2s reverse 4;
 }
 
 .move-up-normal-rev-6 {
+  position: relative;
   animation: move-up 2s reverse 6;
 }
 
 .move-up-normal-rev-8 {
+  position: relative;
   animation: move-up 2s reverse 8;
 }
 
 .move-up-normal-rev-10 {
+  position: relative;
   animation: move-up 2s reverse 10;
 }
 
 .move-up-normal-alt-infinite {
+  position: relative;
   animation: move-up 2s alternate infinite;
 }
 
 .move-up-normal-alt-2 {
+  position: relative;
   animation: move-up 2s alternate 2;
 }
 
 .move-up-normal-alt-4 {
+  position: relative;
   animation: move-up 2s alternate 4;
 }
 
 .move-up-normal-alt-6 {
+  position: relative;
   animation: move-up 2s alternate 6;
 }
 
 .move-up-normal-alt-8 {
+  position: relative;
   animation: move-up 2s alternate 8;
 }
 
 .move-up-normal-alt-10 {
+  position: relative;
   animation: move-up 2s alternate 10;
 }
 
 .move-up-normal-alt-rev-infinite {
+  position: relative;
   animation: move-up 2s alternate-reverse infinite;
 }
 
 .move-up-normal-alt-rev-2 {
+  position: relative;
   animation: move-up 2s alternate-reverse 2;
 }
 
 .move-up-normal-alt-rev-4 {
+  position: relative;
   animation: move-up 2s alternate-reverse 4;
 }
 
 .move-up-normal-alt-rev-6 {
+  position: relative;
   animation: move-up 2s alternate-reverse 6;
 }
 
 .move-up-normal-alt-rev-8 {
+  position: relative;
   animation: move-up 2s alternate-reverse 8;
 }
 
 .move-up-normal-alt-rev-10 {
+  position: relative;
   animation: move-up 2s alternate-reverse 10;
 }
 
 .move-up-slow-nm-infinite {
+  position: relative;
   animation: move-up 2.5s normal infinite;
 }
 
 .move-up-slow-nm-2 {
+  position: relative;
   animation: move-up 2.5s normal 2;
 }
 
 .move-up-slow-nm-4 {
+  position: relative;
   animation: move-up 2.5s normal 4;
 }
 
 .move-up-slow-nm-6 {
+  position: relative;
   animation: move-up 2.5s normal 6;
 }
 
 .move-up-slow-nm-8 {
+  position: relative;
   animation: move-up 2.5s normal 8;
 }
 
 .move-up-slow-nm-10 {
+  position: relative;
   animation: move-up 2.5s normal 10;
 }
 
 .move-up-slow-rev-infinite {
+  position: relative;
   animation: move-up 2.5s reverse infinite;
 }
 
 .move-up-slow-rev-2 {
+  position: relative;
   animation: move-up 2.5s reverse 2;
 }
 
 .move-up-slow-rev-4 {
+  position: relative;
   animation: move-up 2.5s reverse 4;
 }
 
 .move-up-slow-rev-6 {
+  position: relative;
   animation: move-up 2.5s reverse 6;
 }
 
 .move-up-slow-rev-8 {
+  position: relative;
   animation: move-up 2.5s reverse 8;
 }
 
 .move-up-slow-rev-10 {
+  position: relative;
   animation: move-up 2.5s reverse 10;
 }
 
 .move-up-slow-alt-infinite {
+  position: relative;
   animation: move-up 2.5s alternate infinite;
 }
 
 .move-up-slow-alt-2 {
+  position: relative;
   animation: move-up 2.5s alternate 2;
 }
 
 .move-up-slow-alt-4 {
+  position: relative;
   animation: move-up 2.5s alternate 4;
 }
 
 .move-up-slow-alt-6 {
+  position: relative;
   animation: move-up 2.5s alternate 6;
 }
 
 .move-up-slow-alt-8 {
+  position: relative;
   animation: move-up 2.5s alternate 8;
 }
 
 .move-up-slow-alt-10 {
+  position: relative;
   animation: move-up 2.5s alternate 10;
 }
 
 .move-up-slow-alt-rev-infinite {
+  position: relative;
   animation: move-up 2.5s alternate-reverse infinite;
 }
 
 .move-up-slow-alt-rev-2 {
+  position: relative;
   animation: move-up 2.5s alternate-reverse 2;
 }
 
 .move-up-slow-alt-rev-4 {
+  position: relative;
   animation: move-up 2.5s alternate-reverse 4;
 }
 
 .move-up-slow-alt-rev-6 {
+  position: relative;
   animation: move-up 2.5s alternate-reverse 6;
 }
 
 .move-up-slow-alt-rev-8 {
+  position: relative;
   animation: move-up 2.5s alternate-reverse 8;
 }
 
 .move-up-slow-alt-rev-10 {
+  position: relative;
   animation: move-up 2.5s alternate-reverse 10;
 }
 
 .move-up-vslow-nm-infinite {
+  position: relative;
   animation: move-up 3s normal infinite;
 }
 
 .move-up-vslow-nm-2 {
+  position: relative;
   animation: move-up 3s normal 2;
 }
 
 .move-up-vslow-nm-4 {
+  position: relative;
   animation: move-up 3s normal 4;
 }
 
 .move-up-vslow-nm-6 {
+  position: relative;
   animation: move-up 3s normal 6;
 }
 
 .move-up-vslow-nm-8 {
+  position: relative;
   animation: move-up 3s normal 8;
 }
 
 .move-up-vslow-nm-10 {
+  position: relative;
   animation: move-up 3s normal 10;
 }
 
 .move-up-vslow-rev-infinite {
+  position: relative;
   animation: move-up 3s reverse infinite;
 }
 
 .move-up-vslow-rev-2 {
+  position: relative;
   animation: move-up 3s reverse 2;
 }
 
 .move-up-vslow-rev-4 {
+  position: relative;
   animation: move-up 3s reverse 4;
 }
 
 .move-up-vslow-rev-6 {
+  position: relative;
   animation: move-up 3s reverse 6;
 }
 
 .move-up-vslow-rev-8 {
+  position: relative;
   animation: move-up 3s reverse 8;
 }
 
 .move-up-vslow-rev-10 {
+  position: relative;
   animation: move-up 3s reverse 10;
 }
 
 .move-up-vslow-alt-infinite {
+  position: relative;
   animation: move-up 3s alternate infinite;
 }
 
 .move-up-vslow-alt-2 {
+  position: relative;
   animation: move-up 3s alternate 2;
 }
 
 .move-up-vslow-alt-4 {
+  position: relative;
   animation: move-up 3s alternate 4;
 }
 
 .move-up-vslow-alt-6 {
+  position: relative;
   animation: move-up 3s alternate 6;
 }
 
 .move-up-vslow-alt-8 {
+  position: relative;
   animation: move-up 3s alternate 8;
 }
 
 .move-up-vslow-alt-10 {
+  position: relative;
   animation: move-up 3s alternate 10;
 }
 
 .move-up-vslow-alt-rev-infinite {
+  position: relative;
   animation: move-up 3s alternate-reverse infinite;
 }
 
 .move-up-vslow-alt-rev-2 {
+  position: relative;
   animation: move-up 3s alternate-reverse 2;
 }
 
 .move-up-vslow-alt-rev-4 {
+  position: relative;
   animation: move-up 3s alternate-reverse 4;
 }
 
 .move-up-vslow-alt-rev-6 {
+  position: relative;
   animation: move-up 3s alternate-reverse 6;
 }
 
 .move-up-vslow-alt-rev-8 {
+  position: relative;
   animation: move-up 3s alternate-reverse 8;
 }
 
 .move-up-vslow-alt-rev-10 {
+  position: relative;
   animation: move-up 3s alternate-reverse 10;
 }
 
 .hov-move-up-vfast-nm:hover {
+  position: relative;
   animation: move-up 1s normal infinite;
 }
 
 .hov-move-up-vfast-rev:hover {
+  position: relative;
   animation: move-up 1s reverse infinite;
 }
 
 .hov-move-up-vfast-alt:hover {
+  position: relative;
   animation: move-up 1s alternate infinite;
 }
 
 .hov-move-up-vfast-alt-rev:hover {
+  position: relative;
   animation: move-up 1s alternate-reverse infinite;
 }
 
 .hov-move-up-fast-nm:hover {
+  position: relative;
   animation: move-up 1.5s normal infinite;
 }
 
 .hov-move-up-fast-rev:hover {
+  position: relative;
   animation: move-up 1.5s reverse infinite;
 }
 
 .hov-move-up-fast-alt:hover {
+  position: relative;
   animation: move-up 1.5s alternate infinite;
 }
 
 .hov-move-up-fast-alt-rev:hover {
+  position: relative;
   animation: move-up 1.5s alternate-reverse infinite;
 }
 
 .hov-move-up-normal-nm:hover {
+  position: relative;
   animation: move-up 2s normal infinite;
 }
 
 .hov-move-up-normal-rev:hover {
+  position: relative;
   animation: move-up 2s reverse infinite;
 }
 
 .hov-move-up-normal-alt:hover {
+  position: relative;
   animation: move-up 2s alternate infinite;
 }
 
 .hov-move-up-normal-alt-rev:hover {
+  position: relative;
   animation: move-up 2s alternate-reverse infinite;
 }
 
 .hov-move-up-slow-nm:hover {
+  position: relative;
   animation: move-up 2.5s normal infinite;
 }
 
 .hov-move-up-slow-rev:hover {
+  position: relative;
   animation: move-up 2.5s reverse infinite;
 }
 
 .hov-move-up-slow-alt:hover {
+  position: relative;
   animation: move-up 2.5s alternate infinite;
 }
 
 .hov-move-up-slow-alt-rev:hover {
+  position: relative;
   animation: move-up 2.5s alternate-reverse infinite;
 }
 
 .hov-move-up-vslow-nm:hover {
+  position: relative;
   animation: move-up 3s normal infinite;
 }
 
 .hov-move-up-vslow-rev:hover {
+  position: relative;
   animation: move-up 3s reverse infinite;
 }
 
 .hov-move-up-vslow-alt:hover {
+  position: relative;
   animation: move-up 3s alternate infinite;
 }
 
 .hov-move-up-vslow-alt-rev:hover {
+  position: relative;
   animation: move-up 3s alternate-reverse infinite;
 }
 
@@ -4608,562 +4748,702 @@
   }
 }
 .move-down-vfast-nm-infinite {
+  position: relative;
   animation: move-down 1s normal infinite;
 }
 
 .move-down-vfast-nm-2 {
+  position: relative;
   animation: move-down 1s normal 2;
 }
 
 .move-down-vfast-nm-4 {
+  position: relative;
   animation: move-down 1s normal 4;
 }
 
 .move-down-vfast-nm-6 {
+  position: relative;
   animation: move-down 1s normal 6;
 }
 
 .move-down-vfast-nm-8 {
+  position: relative;
   animation: move-down 1s normal 8;
 }
 
 .move-down-vfast-nm-10 {
+  position: relative;
   animation: move-down 1s normal 10;
 }
 
 .move-down-vfast-rev-infinite {
+  position: relative;
   animation: move-down 1s reverse infinite;
 }
 
 .move-down-vfast-rev-2 {
+  position: relative;
   animation: move-down 1s reverse 2;
 }
 
 .move-down-vfast-rev-4 {
+  position: relative;
   animation: move-down 1s reverse 4;
 }
 
 .move-down-vfast-rev-6 {
+  position: relative;
   animation: move-down 1s reverse 6;
 }
 
 .move-down-vfast-rev-8 {
+  position: relative;
   animation: move-down 1s reverse 8;
 }
 
 .move-down-vfast-rev-10 {
+  position: relative;
   animation: move-down 1s reverse 10;
 }
 
 .move-down-vfast-alt-infinite {
+  position: relative;
   animation: move-down 1s alternate infinite;
 }
 
 .move-down-vfast-alt-2 {
+  position: relative;
   animation: move-down 1s alternate 2;
 }
 
 .move-down-vfast-alt-4 {
+  position: relative;
   animation: move-down 1s alternate 4;
 }
 
 .move-down-vfast-alt-6 {
+  position: relative;
   animation: move-down 1s alternate 6;
 }
 
 .move-down-vfast-alt-8 {
+  position: relative;
   animation: move-down 1s alternate 8;
 }
 
 .move-down-vfast-alt-10 {
+  position: relative;
   animation: move-down 1s alternate 10;
 }
 
 .move-down-vfast-alt-rev-infinite {
+  position: relative;
   animation: move-down 1s alternate-reverse infinite;
 }
 
 .move-down-vfast-alt-rev-2 {
+  position: relative;
   animation: move-down 1s alternate-reverse 2;
 }
 
 .move-down-vfast-alt-rev-4 {
+  position: relative;
   animation: move-down 1s alternate-reverse 4;
 }
 
 .move-down-vfast-alt-rev-6 {
+  position: relative;
   animation: move-down 1s alternate-reverse 6;
 }
 
 .move-down-vfast-alt-rev-8 {
+  position: relative;
   animation: move-down 1s alternate-reverse 8;
 }
 
 .move-down-vfast-alt-rev-10 {
+  position: relative;
   animation: move-down 1s alternate-reverse 10;
 }
 
 .move-down-fast-nm-infinite {
+  position: relative;
   animation: move-down 1.5s normal infinite;
 }
 
 .move-down-fast-nm-2 {
+  position: relative;
   animation: move-down 1.5s normal 2;
 }
 
 .move-down-fast-nm-4 {
+  position: relative;
   animation: move-down 1.5s normal 4;
 }
 
 .move-down-fast-nm-6 {
+  position: relative;
   animation: move-down 1.5s normal 6;
 }
 
 .move-down-fast-nm-8 {
+  position: relative;
   animation: move-down 1.5s normal 8;
 }
 
 .move-down-fast-nm-10 {
+  position: relative;
   animation: move-down 1.5s normal 10;
 }
 
 .move-down-fast-rev-infinite {
+  position: relative;
   animation: move-down 1.5s reverse infinite;
 }
 
 .move-down-fast-rev-2 {
+  position: relative;
   animation: move-down 1.5s reverse 2;
 }
 
 .move-down-fast-rev-4 {
+  position: relative;
   animation: move-down 1.5s reverse 4;
 }
 
 .move-down-fast-rev-6 {
+  position: relative;
   animation: move-down 1.5s reverse 6;
 }
 
 .move-down-fast-rev-8 {
+  position: relative;
   animation: move-down 1.5s reverse 8;
 }
 
 .move-down-fast-rev-10 {
+  position: relative;
   animation: move-down 1.5s reverse 10;
 }
 
 .move-down-fast-alt-infinite {
+  position: relative;
   animation: move-down 1.5s alternate infinite;
 }
 
 .move-down-fast-alt-2 {
+  position: relative;
   animation: move-down 1.5s alternate 2;
 }
 
 .move-down-fast-alt-4 {
+  position: relative;
   animation: move-down 1.5s alternate 4;
 }
 
 .move-down-fast-alt-6 {
+  position: relative;
   animation: move-down 1.5s alternate 6;
 }
 
 .move-down-fast-alt-8 {
+  position: relative;
   animation: move-down 1.5s alternate 8;
 }
 
 .move-down-fast-alt-10 {
+  position: relative;
   animation: move-down 1.5s alternate 10;
 }
 
 .move-down-fast-alt-rev-infinite {
+  position: relative;
   animation: move-down 1.5s alternate-reverse infinite;
 }
 
 .move-down-fast-alt-rev-2 {
+  position: relative;
   animation: move-down 1.5s alternate-reverse 2;
 }
 
 .move-down-fast-alt-rev-4 {
+  position: relative;
   animation: move-down 1.5s alternate-reverse 4;
 }
 
 .move-down-fast-alt-rev-6 {
+  position: relative;
   animation: move-down 1.5s alternate-reverse 6;
 }
 
 .move-down-fast-alt-rev-8 {
+  position: relative;
   animation: move-down 1.5s alternate-reverse 8;
 }
 
 .move-down-fast-alt-rev-10 {
+  position: relative;
   animation: move-down 1.5s alternate-reverse 10;
 }
 
 .move-down-normal-nm-infinite {
+  position: relative;
   animation: move-down 2s normal infinite;
 }
 
 .move-down-normal-nm-2 {
+  position: relative;
   animation: move-down 2s normal 2;
 }
 
 .move-down-normal-nm-4 {
+  position: relative;
   animation: move-down 2s normal 4;
 }
 
 .move-down-normal-nm-6 {
+  position: relative;
   animation: move-down 2s normal 6;
 }
 
 .move-down-normal-nm-8 {
+  position: relative;
   animation: move-down 2s normal 8;
 }
 
 .move-down-normal-nm-10 {
+  position: relative;
   animation: move-down 2s normal 10;
 }
 
 .move-down-normal-rev-infinite {
+  position: relative;
   animation: move-down 2s reverse infinite;
 }
 
 .move-down-normal-rev-2 {
+  position: relative;
   animation: move-down 2s reverse 2;
 }
 
 .move-down-normal-rev-4 {
+  position: relative;
   animation: move-down 2s reverse 4;
 }
 
 .move-down-normal-rev-6 {
+  position: relative;
   animation: move-down 2s reverse 6;
 }
 
 .move-down-normal-rev-8 {
+  position: relative;
   animation: move-down 2s reverse 8;
 }
 
 .move-down-normal-rev-10 {
+  position: relative;
   animation: move-down 2s reverse 10;
 }
 
 .move-down-normal-alt-infinite {
+  position: relative;
   animation: move-down 2s alternate infinite;
 }
 
 .move-down-normal-alt-2 {
+  position: relative;
   animation: move-down 2s alternate 2;
 }
 
 .move-down-normal-alt-4 {
+  position: relative;
   animation: move-down 2s alternate 4;
 }
 
 .move-down-normal-alt-6 {
+  position: relative;
   animation: move-down 2s alternate 6;
 }
 
 .move-down-normal-alt-8 {
+  position: relative;
   animation: move-down 2s alternate 8;
 }
 
 .move-down-normal-alt-10 {
+  position: relative;
   animation: move-down 2s alternate 10;
 }
 
 .move-down-normal-alt-rev-infinite {
+  position: relative;
   animation: move-down 2s alternate-reverse infinite;
 }
 
 .move-down-normal-alt-rev-2 {
+  position: relative;
   animation: move-down 2s alternate-reverse 2;
 }
 
 .move-down-normal-alt-rev-4 {
+  position: relative;
   animation: move-down 2s alternate-reverse 4;
 }
 
 .move-down-normal-alt-rev-6 {
+  position: relative;
   animation: move-down 2s alternate-reverse 6;
 }
 
 .move-down-normal-alt-rev-8 {
+  position: relative;
   animation: move-down 2s alternate-reverse 8;
 }
 
 .move-down-normal-alt-rev-10 {
+  position: relative;
   animation: move-down 2s alternate-reverse 10;
 }
 
 .move-down-slow-nm-infinite {
+  position: relative;
   animation: move-down 2.5s normal infinite;
 }
 
 .move-down-slow-nm-2 {
+  position: relative;
   animation: move-down 2.5s normal 2;
 }
 
 .move-down-slow-nm-4 {
+  position: relative;
   animation: move-down 2.5s normal 4;
 }
 
 .move-down-slow-nm-6 {
+  position: relative;
   animation: move-down 2.5s normal 6;
 }
 
 .move-down-slow-nm-8 {
+  position: relative;
   animation: move-down 2.5s normal 8;
 }
 
 .move-down-slow-nm-10 {
+  position: relative;
   animation: move-down 2.5s normal 10;
 }
 
 .move-down-slow-rev-infinite {
+  position: relative;
   animation: move-down 2.5s reverse infinite;
 }
 
 .move-down-slow-rev-2 {
+  position: relative;
   animation: move-down 2.5s reverse 2;
 }
 
 .move-down-slow-rev-4 {
+  position: relative;
   animation: move-down 2.5s reverse 4;
 }
 
 .move-down-slow-rev-6 {
+  position: relative;
   animation: move-down 2.5s reverse 6;
 }
 
 .move-down-slow-rev-8 {
+  position: relative;
   animation: move-down 2.5s reverse 8;
 }
 
 .move-down-slow-rev-10 {
+  position: relative;
   animation: move-down 2.5s reverse 10;
 }
 
 .move-down-slow-alt-infinite {
+  position: relative;
   animation: move-down 2.5s alternate infinite;
 }
 
 .move-down-slow-alt-2 {
+  position: relative;
   animation: move-down 2.5s alternate 2;
 }
 
 .move-down-slow-alt-4 {
+  position: relative;
   animation: move-down 2.5s alternate 4;
 }
 
 .move-down-slow-alt-6 {
+  position: relative;
   animation: move-down 2.5s alternate 6;
 }
 
 .move-down-slow-alt-8 {
+  position: relative;
   animation: move-down 2.5s alternate 8;
 }
 
 .move-down-slow-alt-10 {
+  position: relative;
   animation: move-down 2.5s alternate 10;
 }
 
 .move-down-slow-alt-rev-infinite {
+  position: relative;
   animation: move-down 2.5s alternate-reverse infinite;
 }
 
 .move-down-slow-alt-rev-2 {
+  position: relative;
   animation: move-down 2.5s alternate-reverse 2;
 }
 
 .move-down-slow-alt-rev-4 {
+  position: relative;
   animation: move-down 2.5s alternate-reverse 4;
 }
 
 .move-down-slow-alt-rev-6 {
+  position: relative;
   animation: move-down 2.5s alternate-reverse 6;
 }
 
 .move-down-slow-alt-rev-8 {
+  position: relative;
   animation: move-down 2.5s alternate-reverse 8;
 }
 
 .move-down-slow-alt-rev-10 {
+  position: relative;
   animation: move-down 2.5s alternate-reverse 10;
 }
 
 .move-down-vslow-nm-infinite {
+  position: relative;
   animation: move-down 3s normal infinite;
 }
 
 .move-down-vslow-nm-2 {
+  position: relative;
   animation: move-down 3s normal 2;
 }
 
 .move-down-vslow-nm-4 {
+  position: relative;
   animation: move-down 3s normal 4;
 }
 
 .move-down-vslow-nm-6 {
+  position: relative;
   animation: move-down 3s normal 6;
 }
 
 .move-down-vslow-nm-8 {
+  position: relative;
   animation: move-down 3s normal 8;
 }
 
 .move-down-vslow-nm-10 {
+  position: relative;
   animation: move-down 3s normal 10;
 }
 
 .move-down-vslow-rev-infinite {
+  position: relative;
   animation: move-down 3s reverse infinite;
 }
 
 .move-down-vslow-rev-2 {
+  position: relative;
   animation: move-down 3s reverse 2;
 }
 
 .move-down-vslow-rev-4 {
+  position: relative;
   animation: move-down 3s reverse 4;
 }
 
 .move-down-vslow-rev-6 {
+  position: relative;
   animation: move-down 3s reverse 6;
 }
 
 .move-down-vslow-rev-8 {
+  position: relative;
   animation: move-down 3s reverse 8;
 }
 
 .move-down-vslow-rev-10 {
+  position: relative;
   animation: move-down 3s reverse 10;
 }
 
 .move-down-vslow-alt-infinite {
+  position: relative;
   animation: move-down 3s alternate infinite;
 }
 
 .move-down-vslow-alt-2 {
+  position: relative;
   animation: move-down 3s alternate 2;
 }
 
 .move-down-vslow-alt-4 {
+  position: relative;
   animation: move-down 3s alternate 4;
 }
 
 .move-down-vslow-alt-6 {
+  position: relative;
   animation: move-down 3s alternate 6;
 }
 
 .move-down-vslow-alt-8 {
+  position: relative;
   animation: move-down 3s alternate 8;
 }
 
 .move-down-vslow-alt-10 {
+  position: relative;
   animation: move-down 3s alternate 10;
 }
 
 .move-down-vslow-alt-rev-infinite {
+  position: relative;
   animation: move-down 3s alternate-reverse infinite;
 }
 
 .move-down-vslow-alt-rev-2 {
+  position: relative;
   animation: move-down 3s alternate-reverse 2;
 }
 
 .move-down-vslow-alt-rev-4 {
+  position: relative;
   animation: move-down 3s alternate-reverse 4;
 }
 
 .move-down-vslow-alt-rev-6 {
+  position: relative;
   animation: move-down 3s alternate-reverse 6;
 }
 
 .move-down-vslow-alt-rev-8 {
+  position: relative;
   animation: move-down 3s alternate-reverse 8;
 }
 
 .move-down-vslow-alt-rev-10 {
+  position: relative;
   animation: move-down 3s alternate-reverse 10;
 }
 
 .hov-move-down-vfast-nm:hover {
+  position: relative;
   animation: move-down 1s normal infinite;
 }
 
 .hov-move-down-vfast-rev:hover {
+  position: relative;
   animation: move-down 1s reverse infinite;
 }
 
 .hov-move-down-vfast-alt:hover {
+  position: relative;
   animation: move-down 1s alternate infinite;
 }
 
 .hov-move-down-vfast-alt-rev:hover {
+  position: relative;
   animation: move-down 1s alternate-reverse infinite;
 }
 
 .hov-move-down-fast-nm:hover {
+  position: relative;
   animation: move-down 1.5s normal infinite;
 }
 
 .hov-move-down-fast-rev:hover {
+  position: relative;
   animation: move-down 1.5s reverse infinite;
 }
 
 .hov-move-down-fast-alt:hover {
+  position: relative;
   animation: move-down 1.5s alternate infinite;
 }
 
 .hov-move-down-fast-alt-rev:hover {
+  position: relative;
   animation: move-down 1.5s alternate-reverse infinite;
 }
 
 .hov-move-down-normal-nm:hover {
+  position: relative;
   animation: move-down 2s normal infinite;
 }
 
 .hov-move-down-normal-rev:hover {
+  position: relative;
   animation: move-down 2s reverse infinite;
 }
 
 .hov-move-down-normal-alt:hover {
+  position: relative;
   animation: move-down 2s alternate infinite;
 }
 
 .hov-move-down-normal-alt-rev:hover {
+  position: relative;
   animation: move-down 2s alternate-reverse infinite;
 }
 
 .hov-move-down-slow-nm:hover {
+  position: relative;
   animation: move-down 2.5s normal infinite;
 }
 
 .hov-move-down-slow-rev:hover {
+  position: relative;
   animation: move-down 2.5s reverse infinite;
 }
 
 .hov-move-down-slow-alt:hover {
+  position: relative;
   animation: move-down 2.5s alternate infinite;
 }
 
 .hov-move-down-slow-alt-rev:hover {
+  position: relative;
   animation: move-down 2.5s alternate-reverse infinite;
 }
 
 .hov-move-down-vslow-nm:hover {
+  position: relative;
   animation: move-down 3s normal infinite;
 }
 
 .hov-move-down-vslow-rev:hover {
+  position: relative;
   animation: move-down 3s reverse infinite;
 }
 
 .hov-move-down-vslow-alt:hover {
+  position: relative;
   animation: move-down 3s alternate infinite;
 }
 
 .hov-move-down-vslow-alt-rev:hover {
+  position: relative;
   animation: move-down 3s alternate-reverse infinite;
 }
 
@@ -5181,562 +5461,702 @@
   }
 }
 .move-left-vfast-nm-infinite {
+  position: relative;
   animation: move-left 1s normal infinite;
 }
 
 .move-left-vfast-nm-2 {
+  position: relative;
   animation: move-left 1s normal 2;
 }
 
 .move-left-vfast-nm-4 {
+  position: relative;
   animation: move-left 1s normal 4;
 }
 
 .move-left-vfast-nm-6 {
+  position: relative;
   animation: move-left 1s normal 6;
 }
 
 .move-left-vfast-nm-8 {
+  position: relative;
   animation: move-left 1s normal 8;
 }
 
 .move-left-vfast-nm-10 {
+  position: relative;
   animation: move-left 1s normal 10;
 }
 
 .move-left-vfast-rev-infinite {
+  position: relative;
   animation: move-left 1s reverse infinite;
 }
 
 .move-left-vfast-rev-2 {
+  position: relative;
   animation: move-left 1s reverse 2;
 }
 
 .move-left-vfast-rev-4 {
+  position: relative;
   animation: move-left 1s reverse 4;
 }
 
 .move-left-vfast-rev-6 {
+  position: relative;
   animation: move-left 1s reverse 6;
 }
 
 .move-left-vfast-rev-8 {
+  position: relative;
   animation: move-left 1s reverse 8;
 }
 
 .move-left-vfast-rev-10 {
+  position: relative;
   animation: move-left 1s reverse 10;
 }
 
 .move-left-vfast-alt-infinite {
+  position: relative;
   animation: move-left 1s alternate infinite;
 }
 
 .move-left-vfast-alt-2 {
+  position: relative;
   animation: move-left 1s alternate 2;
 }
 
 .move-left-vfast-alt-4 {
+  position: relative;
   animation: move-left 1s alternate 4;
 }
 
 .move-left-vfast-alt-6 {
+  position: relative;
   animation: move-left 1s alternate 6;
 }
 
 .move-left-vfast-alt-8 {
+  position: relative;
   animation: move-left 1s alternate 8;
 }
 
 .move-left-vfast-alt-10 {
+  position: relative;
   animation: move-left 1s alternate 10;
 }
 
 .move-left-vfast-alt-rev-infinite {
+  position: relative;
   animation: move-left 1s alternate-reverse infinite;
 }
 
 .move-left-vfast-alt-rev-2 {
+  position: relative;
   animation: move-left 1s alternate-reverse 2;
 }
 
 .move-left-vfast-alt-rev-4 {
+  position: relative;
   animation: move-left 1s alternate-reverse 4;
 }
 
 .move-left-vfast-alt-rev-6 {
+  position: relative;
   animation: move-left 1s alternate-reverse 6;
 }
 
 .move-left-vfast-alt-rev-8 {
+  position: relative;
   animation: move-left 1s alternate-reverse 8;
 }
 
 .move-left-vfast-alt-rev-10 {
+  position: relative;
   animation: move-left 1s alternate-reverse 10;
 }
 
 .move-left-fast-nm-infinite {
+  position: relative;
   animation: move-left 1.5s normal infinite;
 }
 
 .move-left-fast-nm-2 {
+  position: relative;
   animation: move-left 1.5s normal 2;
 }
 
 .move-left-fast-nm-4 {
+  position: relative;
   animation: move-left 1.5s normal 4;
 }
 
 .move-left-fast-nm-6 {
+  position: relative;
   animation: move-left 1.5s normal 6;
 }
 
 .move-left-fast-nm-8 {
+  position: relative;
   animation: move-left 1.5s normal 8;
 }
 
 .move-left-fast-nm-10 {
+  position: relative;
   animation: move-left 1.5s normal 10;
 }
 
 .move-left-fast-rev-infinite {
+  position: relative;
   animation: move-left 1.5s reverse infinite;
 }
 
 .move-left-fast-rev-2 {
+  position: relative;
   animation: move-left 1.5s reverse 2;
 }
 
 .move-left-fast-rev-4 {
+  position: relative;
   animation: move-left 1.5s reverse 4;
 }
 
 .move-left-fast-rev-6 {
+  position: relative;
   animation: move-left 1.5s reverse 6;
 }
 
 .move-left-fast-rev-8 {
+  position: relative;
   animation: move-left 1.5s reverse 8;
 }
 
 .move-left-fast-rev-10 {
+  position: relative;
   animation: move-left 1.5s reverse 10;
 }
 
 .move-left-fast-alt-infinite {
+  position: relative;
   animation: move-left 1.5s alternate infinite;
 }
 
 .move-left-fast-alt-2 {
+  position: relative;
   animation: move-left 1.5s alternate 2;
 }
 
 .move-left-fast-alt-4 {
+  position: relative;
   animation: move-left 1.5s alternate 4;
 }
 
 .move-left-fast-alt-6 {
+  position: relative;
   animation: move-left 1.5s alternate 6;
 }
 
 .move-left-fast-alt-8 {
+  position: relative;
   animation: move-left 1.5s alternate 8;
 }
 
 .move-left-fast-alt-10 {
+  position: relative;
   animation: move-left 1.5s alternate 10;
 }
 
 .move-left-fast-alt-rev-infinite {
+  position: relative;
   animation: move-left 1.5s alternate-reverse infinite;
 }
 
 .move-left-fast-alt-rev-2 {
+  position: relative;
   animation: move-left 1.5s alternate-reverse 2;
 }
 
 .move-left-fast-alt-rev-4 {
+  position: relative;
   animation: move-left 1.5s alternate-reverse 4;
 }
 
 .move-left-fast-alt-rev-6 {
+  position: relative;
   animation: move-left 1.5s alternate-reverse 6;
 }
 
 .move-left-fast-alt-rev-8 {
+  position: relative;
   animation: move-left 1.5s alternate-reverse 8;
 }
 
 .move-left-fast-alt-rev-10 {
+  position: relative;
   animation: move-left 1.5s alternate-reverse 10;
 }
 
 .move-left-normal-nm-infinite {
+  position: relative;
   animation: move-left 2s normal infinite;
 }
 
 .move-left-normal-nm-2 {
+  position: relative;
   animation: move-left 2s normal 2;
 }
 
 .move-left-normal-nm-4 {
+  position: relative;
   animation: move-left 2s normal 4;
 }
 
 .move-left-normal-nm-6 {
+  position: relative;
   animation: move-left 2s normal 6;
 }
 
 .move-left-normal-nm-8 {
+  position: relative;
   animation: move-left 2s normal 8;
 }
 
 .move-left-normal-nm-10 {
+  position: relative;
   animation: move-left 2s normal 10;
 }
 
 .move-left-normal-rev-infinite {
+  position: relative;
   animation: move-left 2s reverse infinite;
 }
 
 .move-left-normal-rev-2 {
+  position: relative;
   animation: move-left 2s reverse 2;
 }
 
 .move-left-normal-rev-4 {
+  position: relative;
   animation: move-left 2s reverse 4;
 }
 
 .move-left-normal-rev-6 {
+  position: relative;
   animation: move-left 2s reverse 6;
 }
 
 .move-left-normal-rev-8 {
+  position: relative;
   animation: move-left 2s reverse 8;
 }
 
 .move-left-normal-rev-10 {
+  position: relative;
   animation: move-left 2s reverse 10;
 }
 
 .move-left-normal-alt-infinite {
+  position: relative;
   animation: move-left 2s alternate infinite;
 }
 
 .move-left-normal-alt-2 {
+  position: relative;
   animation: move-left 2s alternate 2;
 }
 
 .move-left-normal-alt-4 {
+  position: relative;
   animation: move-left 2s alternate 4;
 }
 
 .move-left-normal-alt-6 {
+  position: relative;
   animation: move-left 2s alternate 6;
 }
 
 .move-left-normal-alt-8 {
+  position: relative;
   animation: move-left 2s alternate 8;
 }
 
 .move-left-normal-alt-10 {
+  position: relative;
   animation: move-left 2s alternate 10;
 }
 
 .move-left-normal-alt-rev-infinite {
+  position: relative;
   animation: move-left 2s alternate-reverse infinite;
 }
 
 .move-left-normal-alt-rev-2 {
+  position: relative;
   animation: move-left 2s alternate-reverse 2;
 }
 
 .move-left-normal-alt-rev-4 {
+  position: relative;
   animation: move-left 2s alternate-reverse 4;
 }
 
 .move-left-normal-alt-rev-6 {
+  position: relative;
   animation: move-left 2s alternate-reverse 6;
 }
 
 .move-left-normal-alt-rev-8 {
+  position: relative;
   animation: move-left 2s alternate-reverse 8;
 }
 
 .move-left-normal-alt-rev-10 {
+  position: relative;
   animation: move-left 2s alternate-reverse 10;
 }
 
 .move-left-slow-nm-infinite {
+  position: relative;
   animation: move-left 2.5s normal infinite;
 }
 
 .move-left-slow-nm-2 {
+  position: relative;
   animation: move-left 2.5s normal 2;
 }
 
 .move-left-slow-nm-4 {
+  position: relative;
   animation: move-left 2.5s normal 4;
 }
 
 .move-left-slow-nm-6 {
+  position: relative;
   animation: move-left 2.5s normal 6;
 }
 
 .move-left-slow-nm-8 {
+  position: relative;
   animation: move-left 2.5s normal 8;
 }
 
 .move-left-slow-nm-10 {
+  position: relative;
   animation: move-left 2.5s normal 10;
 }
 
 .move-left-slow-rev-infinite {
+  position: relative;
   animation: move-left 2.5s reverse infinite;
 }
 
 .move-left-slow-rev-2 {
+  position: relative;
   animation: move-left 2.5s reverse 2;
 }
 
 .move-left-slow-rev-4 {
+  position: relative;
   animation: move-left 2.5s reverse 4;
 }
 
 .move-left-slow-rev-6 {
+  position: relative;
   animation: move-left 2.5s reverse 6;
 }
 
 .move-left-slow-rev-8 {
+  position: relative;
   animation: move-left 2.5s reverse 8;
 }
 
 .move-left-slow-rev-10 {
+  position: relative;
   animation: move-left 2.5s reverse 10;
 }
 
 .move-left-slow-alt-infinite {
+  position: relative;
   animation: move-left 2.5s alternate infinite;
 }
 
 .move-left-slow-alt-2 {
+  position: relative;
   animation: move-left 2.5s alternate 2;
 }
 
 .move-left-slow-alt-4 {
+  position: relative;
   animation: move-left 2.5s alternate 4;
 }
 
 .move-left-slow-alt-6 {
+  position: relative;
   animation: move-left 2.5s alternate 6;
 }
 
 .move-left-slow-alt-8 {
+  position: relative;
   animation: move-left 2.5s alternate 8;
 }
 
 .move-left-slow-alt-10 {
+  position: relative;
   animation: move-left 2.5s alternate 10;
 }
 
 .move-left-slow-alt-rev-infinite {
+  position: relative;
   animation: move-left 2.5s alternate-reverse infinite;
 }
 
 .move-left-slow-alt-rev-2 {
+  position: relative;
   animation: move-left 2.5s alternate-reverse 2;
 }
 
 .move-left-slow-alt-rev-4 {
+  position: relative;
   animation: move-left 2.5s alternate-reverse 4;
 }
 
 .move-left-slow-alt-rev-6 {
+  position: relative;
   animation: move-left 2.5s alternate-reverse 6;
 }
 
 .move-left-slow-alt-rev-8 {
+  position: relative;
   animation: move-left 2.5s alternate-reverse 8;
 }
 
 .move-left-slow-alt-rev-10 {
+  position: relative;
   animation: move-left 2.5s alternate-reverse 10;
 }
 
 .move-left-vslow-nm-infinite {
+  position: relative;
   animation: move-left 3s normal infinite;
 }
 
 .move-left-vslow-nm-2 {
+  position: relative;
   animation: move-left 3s normal 2;
 }
 
 .move-left-vslow-nm-4 {
+  position: relative;
   animation: move-left 3s normal 4;
 }
 
 .move-left-vslow-nm-6 {
+  position: relative;
   animation: move-left 3s normal 6;
 }
 
 .move-left-vslow-nm-8 {
+  position: relative;
   animation: move-left 3s normal 8;
 }
 
 .move-left-vslow-nm-10 {
+  position: relative;
   animation: move-left 3s normal 10;
 }
 
 .move-left-vslow-rev-infinite {
+  position: relative;
   animation: move-left 3s reverse infinite;
 }
 
 .move-left-vslow-rev-2 {
+  position: relative;
   animation: move-left 3s reverse 2;
 }
 
 .move-left-vslow-rev-4 {
+  position: relative;
   animation: move-left 3s reverse 4;
 }
 
 .move-left-vslow-rev-6 {
+  position: relative;
   animation: move-left 3s reverse 6;
 }
 
 .move-left-vslow-rev-8 {
+  position: relative;
   animation: move-left 3s reverse 8;
 }
 
 .move-left-vslow-rev-10 {
+  position: relative;
   animation: move-left 3s reverse 10;
 }
 
 .move-left-vslow-alt-infinite {
+  position: relative;
   animation: move-left 3s alternate infinite;
 }
 
 .move-left-vslow-alt-2 {
+  position: relative;
   animation: move-left 3s alternate 2;
 }
 
 .move-left-vslow-alt-4 {
+  position: relative;
   animation: move-left 3s alternate 4;
 }
 
 .move-left-vslow-alt-6 {
+  position: relative;
   animation: move-left 3s alternate 6;
 }
 
 .move-left-vslow-alt-8 {
+  position: relative;
   animation: move-left 3s alternate 8;
 }
 
 .move-left-vslow-alt-10 {
+  position: relative;
   animation: move-left 3s alternate 10;
 }
 
 .move-left-vslow-alt-rev-infinite {
+  position: relative;
   animation: move-left 3s alternate-reverse infinite;
 }
 
 .move-left-vslow-alt-rev-2 {
+  position: relative;
   animation: move-left 3s alternate-reverse 2;
 }
 
 .move-left-vslow-alt-rev-4 {
+  position: relative;
   animation: move-left 3s alternate-reverse 4;
 }
 
 .move-left-vslow-alt-rev-6 {
+  position: relative;
   animation: move-left 3s alternate-reverse 6;
 }
 
 .move-left-vslow-alt-rev-8 {
+  position: relative;
   animation: move-left 3s alternate-reverse 8;
 }
 
 .move-left-vslow-alt-rev-10 {
+  position: relative;
   animation: move-left 3s alternate-reverse 10;
 }
 
 .hov-move-left-vfast-nm:hover {
+  position: relative;
   animation: move-left 1s normal infinite;
 }
 
 .hov-move-left-vfast-rev:hover {
+  position: relative;
   animation: move-left 1s reverse infinite;
 }
 
 .hov-move-left-vfast-alt:hover {
+  position: relative;
   animation: move-left 1s alternate infinite;
 }
 
 .hov-move-left-vfast-alt-rev:hover {
+  position: relative;
   animation: move-left 1s alternate-reverse infinite;
 }
 
 .hov-move-left-fast-nm:hover {
+  position: relative;
   animation: move-left 1.5s normal infinite;
 }
 
 .hov-move-left-fast-rev:hover {
+  position: relative;
   animation: move-left 1.5s reverse infinite;
 }
 
 .hov-move-left-fast-alt:hover {
+  position: relative;
   animation: move-left 1.5s alternate infinite;
 }
 
 .hov-move-left-fast-alt-rev:hover {
+  position: relative;
   animation: move-left 1.5s alternate-reverse infinite;
 }
 
 .hov-move-left-normal-nm:hover {
+  position: relative;
   animation: move-left 2s normal infinite;
 }
 
 .hov-move-left-normal-rev:hover {
+  position: relative;
   animation: move-left 2s reverse infinite;
 }
 
 .hov-move-left-normal-alt:hover {
+  position: relative;
   animation: move-left 2s alternate infinite;
 }
 
 .hov-move-left-normal-alt-rev:hover {
+  position: relative;
   animation: move-left 2s alternate-reverse infinite;
 }
 
 .hov-move-left-slow-nm:hover {
+  position: relative;
   animation: move-left 2.5s normal infinite;
 }
 
 .hov-move-left-slow-rev:hover {
+  position: relative;
   animation: move-left 2.5s reverse infinite;
 }
 
 .hov-move-left-slow-alt:hover {
+  position: relative;
   animation: move-left 2.5s alternate infinite;
 }
 
 .hov-move-left-slow-alt-rev:hover {
+  position: relative;
   animation: move-left 2.5s alternate-reverse infinite;
 }
 
 .hov-move-left-vslow-nm:hover {
+  position: relative;
   animation: move-left 3s normal infinite;
 }
 
 .hov-move-left-vslow-rev:hover {
+  position: relative;
   animation: move-left 3s reverse infinite;
 }
 
 .hov-move-left-vslow-alt:hover {
+  position: relative;
   animation: move-left 3s alternate infinite;
 }
 
 .hov-move-left-vslow-alt-rev:hover {
+  position: relative;
   animation: move-left 3s alternate-reverse infinite;
 }
 
@@ -5754,561 +6174,701 @@
   }
 }
 .move-right-vfast-nm-infinite {
+  position: relative;
   animation: move-right 1s normal infinite;
 }
 
 .move-right-vfast-nm-2 {
+  position: relative;
   animation: move-right 1s normal 2;
 }
 
 .move-right-vfast-nm-4 {
+  position: relative;
   animation: move-right 1s normal 4;
 }
 
 .move-right-vfast-nm-6 {
+  position: relative;
   animation: move-right 1s normal 6;
 }
 
 .move-right-vfast-nm-8 {
+  position: relative;
   animation: move-right 1s normal 8;
 }
 
 .move-right-vfast-nm-10 {
+  position: relative;
   animation: move-right 1s normal 10;
 }
 
 .move-right-vfast-rev-infinite {
+  position: relative;
   animation: move-right 1s reverse infinite;
 }
 
 .move-right-vfast-rev-2 {
+  position: relative;
   animation: move-right 1s reverse 2;
 }
 
 .move-right-vfast-rev-4 {
+  position: relative;
   animation: move-right 1s reverse 4;
 }
 
 .move-right-vfast-rev-6 {
+  position: relative;
   animation: move-right 1s reverse 6;
 }
 
 .move-right-vfast-rev-8 {
+  position: relative;
   animation: move-right 1s reverse 8;
 }
 
 .move-right-vfast-rev-10 {
+  position: relative;
   animation: move-right 1s reverse 10;
 }
 
 .move-right-vfast-alt-infinite {
+  position: relative;
   animation: move-right 1s alternate infinite;
 }
 
 .move-right-vfast-alt-2 {
+  position: relative;
   animation: move-right 1s alternate 2;
 }
 
 .move-right-vfast-alt-4 {
+  position: relative;
   animation: move-right 1s alternate 4;
 }
 
 .move-right-vfast-alt-6 {
+  position: relative;
   animation: move-right 1s alternate 6;
 }
 
 .move-right-vfast-alt-8 {
+  position: relative;
   animation: move-right 1s alternate 8;
 }
 
 .move-right-vfast-alt-10 {
+  position: relative;
   animation: move-right 1s alternate 10;
 }
 
 .move-right-vfast-alt-rev-infinite {
+  position: relative;
   animation: move-right 1s alternate-reverse infinite;
 }
 
 .move-right-vfast-alt-rev-2 {
+  position: relative;
   animation: move-right 1s alternate-reverse 2;
 }
 
 .move-right-vfast-alt-rev-4 {
+  position: relative;
   animation: move-right 1s alternate-reverse 4;
 }
 
 .move-right-vfast-alt-rev-6 {
+  position: relative;
   animation: move-right 1s alternate-reverse 6;
 }
 
 .move-right-vfast-alt-rev-8 {
+  position: relative;
   animation: move-right 1s alternate-reverse 8;
 }
 
 .move-right-vfast-alt-rev-10 {
+  position: relative;
   animation: move-right 1s alternate-reverse 10;
 }
 
 .move-right-fast-nm-infinite {
+  position: relative;
   animation: move-right 1.5s normal infinite;
 }
 
 .move-right-fast-nm-2 {
+  position: relative;
   animation: move-right 1.5s normal 2;
 }
 
 .move-right-fast-nm-4 {
+  position: relative;
   animation: move-right 1.5s normal 4;
 }
 
 .move-right-fast-nm-6 {
+  position: relative;
   animation: move-right 1.5s normal 6;
 }
 
 .move-right-fast-nm-8 {
+  position: relative;
   animation: move-right 1.5s normal 8;
 }
 
 .move-right-fast-nm-10 {
+  position: relative;
   animation: move-right 1.5s normal 10;
 }
 
 .move-right-fast-rev-infinite {
+  position: relative;
   animation: move-right 1.5s reverse infinite;
 }
 
 .move-right-fast-rev-2 {
+  position: relative;
   animation: move-right 1.5s reverse 2;
 }
 
 .move-right-fast-rev-4 {
+  position: relative;
   animation: move-right 1.5s reverse 4;
 }
 
 .move-right-fast-rev-6 {
+  position: relative;
   animation: move-right 1.5s reverse 6;
 }
 
 .move-right-fast-rev-8 {
+  position: relative;
   animation: move-right 1.5s reverse 8;
 }
 
 .move-right-fast-rev-10 {
+  position: relative;
   animation: move-right 1.5s reverse 10;
 }
 
 .move-right-fast-alt-infinite {
+  position: relative;
   animation: move-right 1.5s alternate infinite;
 }
 
 .move-right-fast-alt-2 {
+  position: relative;
   animation: move-right 1.5s alternate 2;
 }
 
 .move-right-fast-alt-4 {
+  position: relative;
   animation: move-right 1.5s alternate 4;
 }
 
 .move-right-fast-alt-6 {
+  position: relative;
   animation: move-right 1.5s alternate 6;
 }
 
 .move-right-fast-alt-8 {
+  position: relative;
   animation: move-right 1.5s alternate 8;
 }
 
 .move-right-fast-alt-10 {
+  position: relative;
   animation: move-right 1.5s alternate 10;
 }
 
 .move-right-fast-alt-rev-infinite {
+  position: relative;
   animation: move-right 1.5s alternate-reverse infinite;
 }
 
 .move-right-fast-alt-rev-2 {
+  position: relative;
   animation: move-right 1.5s alternate-reverse 2;
 }
 
 .move-right-fast-alt-rev-4 {
+  position: relative;
   animation: move-right 1.5s alternate-reverse 4;
 }
 
 .move-right-fast-alt-rev-6 {
+  position: relative;
   animation: move-right 1.5s alternate-reverse 6;
 }
 
 .move-right-fast-alt-rev-8 {
+  position: relative;
   animation: move-right 1.5s alternate-reverse 8;
 }
 
 .move-right-fast-alt-rev-10 {
+  position: relative;
   animation: move-right 1.5s alternate-reverse 10;
 }
 
 .move-right-normal-nm-infinite {
+  position: relative;
   animation: move-right 2s normal infinite;
 }
 
 .move-right-normal-nm-2 {
+  position: relative;
   animation: move-right 2s normal 2;
 }
 
 .move-right-normal-nm-4 {
+  position: relative;
   animation: move-right 2s normal 4;
 }
 
 .move-right-normal-nm-6 {
+  position: relative;
   animation: move-right 2s normal 6;
 }
 
 .move-right-normal-nm-8 {
+  position: relative;
   animation: move-right 2s normal 8;
 }
 
 .move-right-normal-nm-10 {
+  position: relative;
   animation: move-right 2s normal 10;
 }
 
 .move-right-normal-rev-infinite {
+  position: relative;
   animation: move-right 2s reverse infinite;
 }
 
 .move-right-normal-rev-2 {
+  position: relative;
   animation: move-right 2s reverse 2;
 }
 
 .move-right-normal-rev-4 {
+  position: relative;
   animation: move-right 2s reverse 4;
 }
 
 .move-right-normal-rev-6 {
+  position: relative;
   animation: move-right 2s reverse 6;
 }
 
 .move-right-normal-rev-8 {
+  position: relative;
   animation: move-right 2s reverse 8;
 }
 
 .move-right-normal-rev-10 {
+  position: relative;
   animation: move-right 2s reverse 10;
 }
 
 .move-right-normal-alt-infinite {
+  position: relative;
   animation: move-right 2s alternate infinite;
 }
 
 .move-right-normal-alt-2 {
+  position: relative;
   animation: move-right 2s alternate 2;
 }
 
 .move-right-normal-alt-4 {
+  position: relative;
   animation: move-right 2s alternate 4;
 }
 
 .move-right-normal-alt-6 {
+  position: relative;
   animation: move-right 2s alternate 6;
 }
 
 .move-right-normal-alt-8 {
+  position: relative;
   animation: move-right 2s alternate 8;
 }
 
 .move-right-normal-alt-10 {
+  position: relative;
   animation: move-right 2s alternate 10;
 }
 
 .move-right-normal-alt-rev-infinite {
+  position: relative;
   animation: move-right 2s alternate-reverse infinite;
 }
 
 .move-right-normal-alt-rev-2 {
+  position: relative;
   animation: move-right 2s alternate-reverse 2;
 }
 
 .move-right-normal-alt-rev-4 {
+  position: relative;
   animation: move-right 2s alternate-reverse 4;
 }
 
 .move-right-normal-alt-rev-6 {
+  position: relative;
   animation: move-right 2s alternate-reverse 6;
 }
 
 .move-right-normal-alt-rev-8 {
+  position: relative;
   animation: move-right 2s alternate-reverse 8;
 }
 
 .move-right-normal-alt-rev-10 {
+  position: relative;
   animation: move-right 2s alternate-reverse 10;
 }
 
 .move-right-slow-nm-infinite {
+  position: relative;
   animation: move-right 2.5s normal infinite;
 }
 
 .move-right-slow-nm-2 {
+  position: relative;
   animation: move-right 2.5s normal 2;
 }
 
 .move-right-slow-nm-4 {
+  position: relative;
   animation: move-right 2.5s normal 4;
 }
 
 .move-right-slow-nm-6 {
+  position: relative;
   animation: move-right 2.5s normal 6;
 }
 
 .move-right-slow-nm-8 {
+  position: relative;
   animation: move-right 2.5s normal 8;
 }
 
 .move-right-slow-nm-10 {
+  position: relative;
   animation: move-right 2.5s normal 10;
 }
 
 .move-right-slow-rev-infinite {
+  position: relative;
   animation: move-right 2.5s reverse infinite;
 }
 
 .move-right-slow-rev-2 {
+  position: relative;
   animation: move-right 2.5s reverse 2;
 }
 
 .move-right-slow-rev-4 {
+  position: relative;
   animation: move-right 2.5s reverse 4;
 }
 
 .move-right-slow-rev-6 {
+  position: relative;
   animation: move-right 2.5s reverse 6;
 }
 
 .move-right-slow-rev-8 {
+  position: relative;
   animation: move-right 2.5s reverse 8;
 }
 
 .move-right-slow-rev-10 {
+  position: relative;
   animation: move-right 2.5s reverse 10;
 }
 
 .move-right-slow-alt-infinite {
+  position: relative;
   animation: move-right 2.5s alternate infinite;
 }
 
 .move-right-slow-alt-2 {
+  position: relative;
   animation: move-right 2.5s alternate 2;
 }
 
 .move-right-slow-alt-4 {
+  position: relative;
   animation: move-right 2.5s alternate 4;
 }
 
 .move-right-slow-alt-6 {
+  position: relative;
   animation: move-right 2.5s alternate 6;
 }
 
 .move-right-slow-alt-8 {
+  position: relative;
   animation: move-right 2.5s alternate 8;
 }
 
 .move-right-slow-alt-10 {
+  position: relative;
   animation: move-right 2.5s alternate 10;
 }
 
 .move-right-slow-alt-rev-infinite {
+  position: relative;
   animation: move-right 2.5s alternate-reverse infinite;
 }
 
 .move-right-slow-alt-rev-2 {
+  position: relative;
   animation: move-right 2.5s alternate-reverse 2;
 }
 
 .move-right-slow-alt-rev-4 {
+  position: relative;
   animation: move-right 2.5s alternate-reverse 4;
 }
 
 .move-right-slow-alt-rev-6 {
+  position: relative;
   animation: move-right 2.5s alternate-reverse 6;
 }
 
 .move-right-slow-alt-rev-8 {
+  position: relative;
   animation: move-right 2.5s alternate-reverse 8;
 }
 
 .move-right-slow-alt-rev-10 {
+  position: relative;
   animation: move-right 2.5s alternate-reverse 10;
 }
 
 .move-right-vslow-nm-infinite {
+  position: relative;
   animation: move-right 3s normal infinite;
 }
 
 .move-right-vslow-nm-2 {
+  position: relative;
   animation: move-right 3s normal 2;
 }
 
 .move-right-vslow-nm-4 {
+  position: relative;
   animation: move-right 3s normal 4;
 }
 
 .move-right-vslow-nm-6 {
+  position: relative;
   animation: move-right 3s normal 6;
 }
 
 .move-right-vslow-nm-8 {
+  position: relative;
   animation: move-right 3s normal 8;
 }
 
 .move-right-vslow-nm-10 {
+  position: relative;
   animation: move-right 3s normal 10;
 }
 
 .move-right-vslow-rev-infinite {
+  position: relative;
   animation: move-right 3s reverse infinite;
 }
 
 .move-right-vslow-rev-2 {
+  position: relative;
   animation: move-right 3s reverse 2;
 }
 
 .move-right-vslow-rev-4 {
+  position: relative;
   animation: move-right 3s reverse 4;
 }
 
 .move-right-vslow-rev-6 {
+  position: relative;
   animation: move-right 3s reverse 6;
 }
 
 .move-right-vslow-rev-8 {
+  position: relative;
   animation: move-right 3s reverse 8;
 }
 
 .move-right-vslow-rev-10 {
+  position: relative;
   animation: move-right 3s reverse 10;
 }
 
 .move-right-vslow-alt-infinite {
+  position: relative;
   animation: move-right 3s alternate infinite;
 }
 
 .move-right-vslow-alt-2 {
+  position: relative;
   animation: move-right 3s alternate 2;
 }
 
 .move-right-vslow-alt-4 {
+  position: relative;
   animation: move-right 3s alternate 4;
 }
 
 .move-right-vslow-alt-6 {
+  position: relative;
   animation: move-right 3s alternate 6;
 }
 
 .move-right-vslow-alt-8 {
+  position: relative;
   animation: move-right 3s alternate 8;
 }
 
 .move-right-vslow-alt-10 {
+  position: relative;
   animation: move-right 3s alternate 10;
 }
 
 .move-right-vslow-alt-rev-infinite {
+  position: relative;
   animation: move-right 3s alternate-reverse infinite;
 }
 
 .move-right-vslow-alt-rev-2 {
+  position: relative;
   animation: move-right 3s alternate-reverse 2;
 }
 
 .move-right-vslow-alt-rev-4 {
+  position: relative;
   animation: move-right 3s alternate-reverse 4;
 }
 
 .move-right-vslow-alt-rev-6 {
+  position: relative;
   animation: move-right 3s alternate-reverse 6;
 }
 
 .move-right-vslow-alt-rev-8 {
+  position: relative;
   animation: move-right 3s alternate-reverse 8;
 }
 
 .move-right-vslow-alt-rev-10 {
+  position: relative;
   animation: move-right 3s alternate-reverse 10;
 }
 
 .hov-move-right-vfast-nm:hover {
+  position: relative;
   animation: move-right 1s normal infinite;
 }
 
 .hov-move-right-vfast-rev:hover {
+  position: relative;
   animation: move-right 1s reverse infinite;
 }
 
 .hov-move-right-vfast-alt:hover {
+  position: relative;
   animation: move-right 1s alternate infinite;
 }
 
 .hov-move-right-vfast-alt-rev:hover {
+  position: relative;
   animation: move-right 1s alternate-reverse infinite;
 }
 
 .hov-move-right-fast-nm:hover {
+  position: relative;
   animation: move-right 1.5s normal infinite;
 }
 
 .hov-move-right-fast-rev:hover {
+  position: relative;
   animation: move-right 1.5s reverse infinite;
 }
 
 .hov-move-right-fast-alt:hover {
+  position: relative;
   animation: move-right 1.5s alternate infinite;
 }
 
 .hov-move-right-fast-alt-rev:hover {
+  position: relative;
   animation: move-right 1.5s alternate-reverse infinite;
 }
 
 .hov-move-right-normal-nm:hover {
+  position: relative;
   animation: move-right 2s normal infinite;
 }
 
 .hov-move-right-normal-rev:hover {
+  position: relative;
   animation: move-right 2s reverse infinite;
 }
 
 .hov-move-right-normal-alt:hover {
+  position: relative;
   animation: move-right 2s alternate infinite;
 }
 
 .hov-move-right-normal-alt-rev:hover {
+  position: relative;
   animation: move-right 2s alternate-reverse infinite;
 }
 
 .hov-move-right-slow-nm:hover {
+  position: relative;
   animation: move-right 2.5s normal infinite;
 }
 
 .hov-move-right-slow-rev:hover {
+  position: relative;
   animation: move-right 2.5s reverse infinite;
 }
 
 .hov-move-right-slow-alt:hover {
+  position: relative;
   animation: move-right 2.5s alternate infinite;
 }
 
 .hov-move-right-slow-alt-rev:hover {
+  position: relative;
   animation: move-right 2.5s alternate-reverse infinite;
 }
 
 .hov-move-right-vslow-nm:hover {
+  position: relative;
   animation: move-right 3s normal infinite;
 }
 
 .hov-move-right-vslow-rev:hover {
+  position: relative;
   animation: move-right 3s reverse infinite;
 }
 
 .hov-move-right-vslow-alt:hover {
+  position: relative;
   animation: move-right 3s alternate infinite;
 }
 
 .hov-move-right-vslow-alt-rev:hover {
+  position: relative;
   animation: move-right 3s alternate-reverse infinite;
 }
